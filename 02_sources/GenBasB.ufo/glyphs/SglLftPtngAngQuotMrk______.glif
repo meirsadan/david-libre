@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="SglLftPtngAngQuotMrk" format="1">
+  <advance width="647"/>
+  <unicode hex="2039"/>
+  <outline>
+    <contour>
+      <point x="522" y="47" type="line"/>
+      <point x="321" y="467" type="line"/>
+      <point x="318" y="465"/>
+      <point x="522" y="883"/>
+      <point x="521" y="883" type="curve"/>
+      <point x="464" y="928" type="line"/>
+      <point x="67" y="503" type="line"/>
+      <point x="65" y="500"/>
+      <point x="65" y="430"/>
+      <point x="65" y="430" type="curve"/>
+      <point x="464" y="2" type="line"/>
+    </contour>
+  </outline>
+</glyph>

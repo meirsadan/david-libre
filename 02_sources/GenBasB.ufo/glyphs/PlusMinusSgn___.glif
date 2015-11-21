@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="PlusMinusSgn" format="1">
+  <advance width="840"/>
+  <unicode hex="00B1"/>
+  <outline>
+    <contour>
+      <point x="506" y="355" type="curve"/>
+      <point x="506" y="621" type="line"/>
+      <point x="764" y="621" type="line"/>
+      <point x="774" y="643"/>
+      <point x="802" y="704"/>
+      <point x="810" y="733" type="curve"/>
+      <point x="777" y="764" type="line"/>
+      <point x="506" y="764" type="line"/>
+      <point x="506" y="1038" type="line"/>
+      <point x="474" y="1069" type="line"/>
+      <point x="445" y="1062"/>
+      <point x="386" y="1040"/>
+      <point x="361" y="1032" type="curve"/>
+      <point x="361" y="764" type="line"/>
+      <point x="99" y="764" type="line"/>
+      <point x="87" y="738"/>
+      <point x="60" y="681"/>
+      <point x="53" y="652" type="curve"/>
+      <point x="85" y="621" type="line"/>
+      <point x="361" y="621" type="line"/>
+      <point x="361" y="346" type="line"/>
+      <point x="393" y="316" type="line"/>
+      <point x="422" y="322"/>
+      <point x="480" y="342"/>
+    </contour>
+    <contour>
+      <point x="810" y="224" type="curve"/>
+      <point x="777" y="255" type="line"/>
+      <point x="99" y="255" type="line"/>
+      <point x="87" y="229"/>
+      <point x="60" y="171"/>
+      <point x="53" y="143" type="curve"/>
+      <point x="85" y="111" type="line"/>
+      <point x="764" y="111" type="line"/>
+      <point x="774" y="133"/>
+      <point x="802" y="195"/>
+    </contour>
+  </outline>
+</glyph>

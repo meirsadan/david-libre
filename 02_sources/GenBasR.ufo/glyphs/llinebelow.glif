@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="llinebelow" format="1">
+  <advance width="555"/>
+  <unicode hex="1E3B"/>
+  <outline>
+    <component base="l"/>
+    <component base="macronbelowcomb" xOffset="800"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.807</real>
+        <integer>1</integer>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>

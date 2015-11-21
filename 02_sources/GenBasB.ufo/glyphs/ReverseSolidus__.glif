@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ReverseSolidus" format="1">
+  <advance width="960"/>
+  <unicode hex="005C"/>
+  <outline>
+    <contour>
+      <point x="920" y="-303" type="line"/>
+      <point x="235" y="1544" type="line"/>
+      <point x="198" y="1567"/>
+      <point x="124" y="1590"/>
+      <point x="85" y="1600" type="curve"/>
+      <point x="40" y="1571" type="line"/>
+      <point x="726" y="-277" type="line"/>
+      <point x="750" y="-295"/>
+      <point x="846" y="-325"/>
+      <point x="878" y="-335" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

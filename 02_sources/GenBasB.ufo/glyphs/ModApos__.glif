@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ModApos" format="1">
+  <advance width="508"/>
+  <unicode hex="02BC"/>
+  <outline>
+    <contour>
+      <point x="439" y="1292" type="curve"/>
+      <point x="440" y="1378"/>
+      <point x="409" y="1449"/>
+      <point x="334" y="1497" type="curve"/>
+      <point x="288" y="1502"/>
+      <point x="89" y="1430"/>
+      <point x="65" y="1398" type="curve"/>
+      <point x="80" y="1324" type="line"/>
+      <point x="179" y="1322"/>
+      <point x="238" y="1268"/>
+      <point x="237" y="1192" type="curve" smooth="yes"/>
+      <point x="236" y="1104"/>
+      <point x="193" y="1056"/>
+      <point x="144" y="996" type="curve"/>
+      <point x="209" y="946" type="line"/>
+      <point x="338" y="1028"/>
+      <point x="437" y="1148"/>
+    </contour>
+  </outline>
+</glyph>

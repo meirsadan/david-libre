@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="LtnCapACircumGrave" format="1">
+  <advance width="1287"/>
+  <unicode hex="1EA6"/>
+  <outline>
+    <component base="LtnCapA"/>
+    <component base="CombCircum.LP" xOffset="1147" yOffset="320"/>
+    <component base="CombGrave.LP" xOffset="1066" yOffset="720"/>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.typemytype.robofont.mark</key>
+  <array>
+    <real>0.807</real>
+    <real>1</real>
+    <real>0.6</real>
+    <real>1</real>
+  </array>
+  </dict>
+  </lib>
+</glyph>

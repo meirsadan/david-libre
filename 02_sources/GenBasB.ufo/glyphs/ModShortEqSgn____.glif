@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ModShortEqSgn" format="1">
+  <advance width="715"/>
+  <unicode hex="A78A"/>
+  <outline>
+    <contour>
+      <point x="670" y="638" type="curve"/>
+      <point x="638" y="671" type="line"/>
+      <point x="84" y="671" type="line"/>
+      <point x="72" y="646"/>
+      <point x="52" y="587"/>
+      <point x="45" y="560" type="curve"/>
+      <point x="78" y="528" type="line"/>
+      <point x="633" y="528" type="line"/>
+      <point x="641" y="551"/>
+      <point x="663" y="612"/>
+    </contour>
+    <contour>
+      <point x="670" y="363" type="curve"/>
+      <point x="638" y="396" type="line"/>
+      <point x="84" y="396" type="line"/>
+      <point x="72" y="370"/>
+      <point x="52" y="312"/>
+      <point x="45" y="285" type="curve"/>
+      <point x="78" y="252" type="line"/>
+      <point x="633" y="252" type="line"/>
+      <point x="641" y="276"/>
+      <point x="663" y="337"/>
+    </contour>
+  </outline>
+</glyph>

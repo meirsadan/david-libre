@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="CombDiaer.LP" format="1">
+  <advance width="0"/>
+  <outline>
+    <contour>
+      <point x="-589" y="1228" type="curve"/>
+      <point x="-589" y="1309"/>
+      <point x="-633" y="1349"/>
+      <point x="-708" y="1349" type="curve" smooth="yes"/>
+      <point x="-789" y="1349"/>
+      <point x="-864" y="1271"/>
+      <point x="-864" y="1173" type="curve" smooth="yes"/>
+      <point x="-864" y="1094"/>
+      <point x="-822" y="1051"/>
+      <point x="-745" y="1051" type="curve" smooth="yes"/>
+      <point x="-660" y="1051"/>
+      <point x="-589" y="1130"/>
+    </contour>
+    <contour>
+      <point x="-166" y="1228" type="curve"/>
+      <point x="-166" y="1309"/>
+      <point x="-211" y="1349"/>
+      <point x="-285" y="1349" type="curve" smooth="yes"/>
+      <point x="-367" y="1349"/>
+      <point x="-441" y="1271"/>
+      <point x="-441" y="1173" type="curve" smooth="yes"/>
+      <point x="-441" y="1094"/>
+      <point x="-400" y="1051"/>
+      <point x="-323" y="1051" type="curve" smooth="yes"/>
+      <point x="-237" y="1051"/>
+      <point x="-166" y="1130"/>
+    </contour>
+    <contour>
+      <point x="-515" y="1050" type="move" name="_U"/>
+    </contour>
+    <contour>
+      <point x="-515" y="1378" type="move" name="U"/>
+    </contour>
+  </outline>
+</glyph>

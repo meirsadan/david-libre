@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="GraveAccent" format="1">
+  <advance width="653"/>
+  <unicode hex="0060"/>
+  <outline>
+    <contour>
+      <point x="452" y="1086" type="curve"/>
+      <point x="234" y="1512" type="line"/>
+      <point x="201" y="1509"/>
+      <point x="39" y="1479"/>
+      <point x="13" y="1473" type="curve"/>
+      <point x="-17" y="1417" type="line"/>
+      <point x="366" y="1040" type="line"/>
+      <point x="389" y="1047"/>
+      <point x="436" y="1071"/>
+    </contour>
+    <contour>
+      <point x="327" y="1410" type="move" name="U"/>
+    </contour>
+  </outline>
+</glyph>

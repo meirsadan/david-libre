@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="NotSgn" format="1">
+  <advance width="1036"/>
+  <unicode hex="00AC"/>
+  <outline>
+    <contour>
+      <point x="951" y="233" type="curve"/>
+      <point x="951" y="604" type="line"/>
+      <point x="915" y="633" type="line"/>
+      <point x="121" y="633" type="line"/>
+      <point x="109" y="607"/>
+      <point x="82" y="550"/>
+      <point x="75" y="523" type="curve"/>
+      <point x="108" y="491" type="line"/>
+      <point x="803" y="491" type="line"/>
+      <point x="803" y="200" type="line"/>
+      <point x="835" y="167" type="line"/>
+      <point x="868" y="178"/>
+      <point x="924" y="213"/>
+    </contour>
+  </outline>
+</glyph>

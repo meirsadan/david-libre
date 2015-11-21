@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Idieresisacute" format="1">
+  <advance width="610"/>
+  <unicode hex="1E2E"/>
+  <outline>
+    <component base="I"/>
+    <component base="CombDiaer.LP" xOffset="810" yOffset="320"/>
+    <component base="CombAcute.LP" xOffset="838" yOffset="640"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.807</real>
+        <integer>1</integer>
+        <real>0.6</real>
+        <integer>1</integer>
+      </array>
+    </dict>
+  </lib>
+</glyph>
