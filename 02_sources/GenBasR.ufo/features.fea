@@ -1,3 +1,4 @@
+# Prefix: Prefix
 @_kernupsilonDial = [ grSmlUpsilonWDial grSmlUpsilonWDialTonos grSmlUpsilonWDialVaria grSmlUpsilonWDialOxia grSmlUpsilonWDialPeris grSmlUpsilonWDialPeris.altd ];
 
 @_kernOmegaRight = [ grCapOmegaWTonos grCapOmegaWPsili grCapOmegaWDasia grCapOmegaWPsiliVaria grCapOmegaWDasiaVaria grCapOmegaWPsiliOxia grCapOmegaWDasiaOxia grCapOmegaWPsiliPeris grCapOmegaWDasiaPeris grCapOmegaWVaria grCapOmegaWOxia grCapOmegaWPsiliPeris.altd grCapOmegaWDasiaPeris.altd ];

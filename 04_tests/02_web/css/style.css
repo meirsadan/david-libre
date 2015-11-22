@@ -1,0 +1,56 @@
+@font-face {
+  font-family: 'David Hofshi';
+  font-weight: 400;
+  src: url('../../../03_output/02_web/DavidHofshi-Regular.eot'); /* IE9 Compat Modes */
+  src: url('../../../03_output/02_web/DavidHofshi-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('../../../03_output/02_web/DavidHofshi-Regular.woff2') format('woff2'), /* Super Modern Browsers */
+       url('../../../03_output/02_web/DavidHofshi-Regular.woff') format('woff'); /* Pretty Modern Browsers */
+}
+
+@font-face {
+  font-family: 'David Hofshi';
+  font-weight: 500;
+  src: url('../../../03_output/02_web/DavidHofshi-Medium.eot'); /* IE9 Compat Modes */
+  src: url('../../../03_output/02_web/DavidHofshi-Medium.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('../../../03_output/02_web/DavidHofshi-Medium.woff2') format('woff2'), /* Super Modern Browsers */
+       url('../../../03_output/02_web/DavidHofshi-Medium.woff') format('woff'); /* Pretty Modern Browsers */
+}
+
+@font-face {
+  font-family: 'David Hofshi';
+  font-weight: 700;
+  src: url('../../../03_output/02_web/DavidHofshi-Bold.eot'); /* IE9 Compat Modes */
+  src: url('../../../03_output/02_web/DavidHofshi-Bold.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('../../../03_output/02_web/DavidHofshi-Bold.woff2') format('woff2'), /* Super Modern Browsers */
+       url('../../../03_output/02_web/DavidHofshi-Bold.woff') format('woff'); /* Pretty Modern Browsers */
+}
+
+body {
+	background-color: #fdffe0;
+	color: #151515;
+	font-family: "David Hofshi";
+	direction: rtl;
+	font-size: 18px;
+	line-height: 1.6;
+	padding: 0 1.2em 3em;
+}
+
+p.size-0 {
+	font-size: 140%;
+}
+
+p.size-1 {
+	font-size: 125%;
+}
+
+p.size-2 {
+	font-size: 112.5%;
+}
+
+p.size-3 {
+	font-size: 100%;
+}
+
+.poem {
+	font-size: 120%;
+}

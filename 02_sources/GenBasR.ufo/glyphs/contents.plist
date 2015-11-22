@@ -1192,12 +1192,12 @@
 	<string>mdotaccent.glif</string>
 	<key>mdotbelow</key>
 	<string>mdotbelow.glif</string>
-	<key>micro</key>
-	<string>micro.glif</string>
 	<key>minus</key>
 	<string>minus.glif</string>
 	<key>minusmod</key>
 	<string>minusmod.glif</string>
+	<key>mu</key>
+	<string>mu.glif</string>
 	<key>multiply</key>
 	<string>multiply.glif</string>
 	<key>n</key>
