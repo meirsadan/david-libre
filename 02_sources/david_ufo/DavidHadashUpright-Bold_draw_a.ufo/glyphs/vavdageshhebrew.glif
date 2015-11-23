@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="vavdageshhebrew" format="1">
+  <advance width="407"/>
+  <unicode hex="FB35"/>
+  <outline>
+    <component base="vavhebrew"/>
+    <component base="dageshhebrew" xOffset="-110"/>
+  </outline>
+</glyph>

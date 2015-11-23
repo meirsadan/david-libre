@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="emdash" format="1">
+  <advance width="672"/>
+  <unicode hex="2014"/>
+  <outline>
+    <contour>
+      <point x="115" y="311" type="curve"/>
+      <point x="100" y="293"/>
+      <point x="88" y="277"/>
+      <point x="79" y="261" type="curve"/>
+      <point x="77" y="257"/>
+      <point x="72" y="248"/>
+      <point x="72" y="241" type="curve"/>
+      <point x="72" y="231"/>
+      <point x="81" y="228"/>
+      <point x="92" y="228" type="curve"/>
+      <point x="129" y="228"/>
+      <point x="498" y="228"/>
+      <point x="533" y="228" type="curve"/>
+      <point x="546" y="228"/>
+      <point x="553" y="231"/>
+      <point x="562" y="243" type="curve"/>
+      <point x="576" y="261"/>
+      <point x="582" y="273"/>
+      <point x="593" y="293" type="curve"/>
+      <point x="597" y="300"/>
+      <point x="599" y="307"/>
+      <point x="599" y="312" type="curve"/>
+      <point x="599" y="323"/>
+      <point x="592" y="326"/>
+      <point x="578" y="326" type="curve"/>
+      <point x="149" y="326" type="line" smooth="yes"/>
+      <point x="135" y="326"/>
+      <point x="126" y="323"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.typemytype.robofont.mark</key>
+  <array>
+    <real>1</real>
+    <real>0.6</real>
+    <real>0.6</real>
+    <real>1</real>
+  </array>
+  </dict>
+  </lib>
+</glyph>

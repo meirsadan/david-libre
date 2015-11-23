@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="yodhebrew" format="1">
+  <advance width="407"/>
+  <unicode hex="05D9"/>
+  <outline>
+    <contour>
+      <point x="146" y="145" type="curve" smooth="yes"/>
+      <point x="168" y="189"/>
+      <point x="209" y="250"/>
+      <point x="209" y="280" type="curve" smooth="yes"/>
+      <point x="209" y="303"/>
+      <point x="204" y="330"/>
+      <point x="184" y="351" type="curve" smooth="yes"/>
+      <point x="143" y="394"/>
+      <point x="85" y="427"/>
+      <point x="62" y="449" type="curve" smooth="yes"/>
+      <point x="57" y="455"/>
+      <point x="54" y="459"/>
+      <point x="54" y="464" type="curve" smooth="yes"/>
+      <point x="54" y="468"/>
+      <point x="56" y="473"/>
+      <point x="60" y="480" type="curve" smooth="yes"/>
+      <point x="74" y="508"/>
+      <point x="126" y="572"/>
+      <point x="148" y="592" type="curve" smooth="yes"/>
+      <point x="158" y="601"/>
+      <point x="162" y="602"/>
+      <point x="166" y="602" type="curve" smooth="yes"/>
+      <point x="171" y="602"/>
+      <point x="175" y="600"/>
+      <point x="176" y="599" type="curve" smooth="yes"/>
+      <point x="215" y="576"/>
+      <point x="293" y="514"/>
+      <point x="324" y="472" type="curve" smooth="yes"/>
+      <point x="342" y="448"/>
+      <point x="358" y="420"/>
+      <point x="358" y="382" type="curve" smooth="yes"/>
+      <point x="358" y="333"/>
+      <point x="330" y="278"/>
+      <point x="311" y="248" type="curve" smooth="yes"/>
+      <point x="280" y="198"/>
+      <point x="222" y="157"/>
+      <point x="168" y="136" type="curve" smooth="yes"/>
+      <point x="163" y="134"/>
+      <point x="157" y="132"/>
+      <point x="154" y="132" type="curve" smooth="yes"/>
+      <point x="148" y="132"/>
+      <point x="145" y="135"/>
+      <point x="145" y="140" type="curve" smooth="yes"/>
+      <point x="145" y="141"/>
+      <point x="145" y="143"/>
+    </contour>
+  </outline>
+</glyph>

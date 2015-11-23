@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uniFB24" format="1">
+  <advance width="567"/>
+  <unicode hex="FB24"/>
+  <outline>
+    <component base="kafhebrew"/>
+  </outline>
+</glyph>
