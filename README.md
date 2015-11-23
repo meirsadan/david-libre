@@ -3,6 +3,7 @@ This Libre version of the David Hebrew is based on David Hadash, released by Mon
 
 ## What typographic features are available in David Hofshi?
 * Full Hebrew set with diacritic marks (nikud)
+* Three weights: Regular, Medium & Bold
 * Extended Latin set, based on the Gentium typeface with additional symbols
 * Alternative Hebrew-height numerals (available as Stylistic Set 1)
 * Alternative "Hebrew ampersand" symbol designed by Ismar David (available in Stylistic Set 2)
