@@ -1,16 +1,6 @@
 {
 DisplayStrings = (
-/quoteright,
-"}",
-/aleflamedhebrew,
-/vavhebrew/vavholamhebrew,
-/vavholamhebrew,
-"\U00A4",
-"\U00A7",
-"\U00AC",
-"\U00B0",
-"\U00B6",
-/daggerdbl.alt
+/alefhebrew/bethebrew/gimelhebrew/dalethebrew/hehebrew/vavhebrew/zayinhebrew/hethebrew/tethebrew/yodhebrew/finalkafhebrew/kafhebrew/lamedhebrew/finalmemhebrew/memhebrew/finalnunhebrew/nunhebrew/samekhhebrew/ayinhebrew/finalpehebrew/pehebrew/finaltsadihebrew/tsadihebrew/qofhebrew/reshhebrew/shinhebrew/tavhebrew
 );
 copyright = "Copyright (c) 2014 Monotype Imaging Inc. (licensing@monotype.com). All Rights Reserved. David Hadash is a trademark of Monotype Imaging Inc. Reserved Font Name \"\"Hadash\"\". Contains portions from Gentium Basic Copyright (c) SIL International, 2003-2008.";
 customParameters = (
@@ -39,7 +29,7 @@ name = Languagesystems;
 );
 features = (
 {
-code = "\011script hebr;\012\011\012\011sub bethebrew dageshhebrew by betdageshhebrew;\012\011sub gimelhebrew dageshhebrew by gimeldageshhebrew;\012\011sub dalethebrew dageshhebrew by daletdageshhebrew;\012\011sub hehebrew dageshhebrew by hedageshhebrew;\012\011sub vavhebrew dageshhebrew by vavdageshhebrew;\012\011sub zayinhebrew dageshhebrew by zayindageshhebrew;\012\011sub tethebrew dageshhebrew by tetdageshhebrew;\012\011sub yodhebrew dageshhebrew by yoddageshhebrew;\012\011sub finalkafhebrew dageshhebrew by finalkafdageshhebrew;\012\011sub kafhebrew dageshhebrew by kafdageshhebrew;\012\011sub lamedhebrew dageshhebrew by lameddageshhebrew;\012\011sub memhebrew dageshhebrew by memdageshhebrew;\012\011sub nunhebrew dageshhebrew by nundageshhebrew;\012\011sub samekhhebrew dageshhebrew by samekhdageshhebrew;\012\011sub finalpehebrew dageshhebrew by finalpedageshhebrew;\012\011sub pehebrew dageshhebrew by pedageshhebrew;\011\012\011sub tsadihebrew dageshhebrew by tsadidageshhebrew;\012\011sub qofhebrew dageshhebrew by qofdageshhebrew;\012\011sub reshhebrew dageshhebrew by reshdageshhebrew;\012\011sub shinhebrew dageshhebrew by shindageshhebrew;\012\011sub tavhebrew dageshhebrew by tavdageshhebrew;\012\012\011sub shinhebrew shindothebrew dageshhebrew by shindageshshindothebrew;\012\011sub shinhebrew dageshhebrew shindothebrew by shindageshshindothebrew;\012\011sub shinhebrew shindothebrew by shinshindothebrew;\012\011sub shinhebrew sindothebrew dageshhebrew by shindageshsindothebrew;\012\011sub shinhebrew dageshhebrew sindothebrew by shindageshsindothebrew;\012\011sub shinhebrew sindothebrew by shinsindothebrew;\012\011\012\011sub vavhebrew holamhebrew by vavholamhebrew;\012\011\012\011sub bethebrew rafehebrew by betrafehebrew;\012\011sub kafhebrew rafehebrew by kafrafehebrew;\012\011sub pehebrew rafehebrew by perafehebrew;\012\011\012\011sub finalkafhebrew qamatshebrew' by qamatsqatanhebrew;\012\012\011language IWR;\012\011\012\011sub bethebrew dageshhebrew by betdageshhebrew;\012\011sub gimelhebrew dageshhebrew by gimeldageshhebrew;\012\011sub dalethebrew dageshhebrew by daletdageshhebrew;\012\011sub hehebrew dageshhebrew by hedageshhebrew;\012\011sub vavhebrew dageshhebrew by vavdageshhebrew;\012\011sub zayinhebrew dageshhebrew by zayindageshhebrew;\012\011sub tethebrew dageshhebrew by tetdageshhebrew;\012\011sub yodhebrew dageshhebrew by yoddageshhebrew;\012\011sub finalkafhebrew dageshhebrew by finalkafdageshhebrew;\012\011sub kafhebrew dageshhebrew by kafdageshhebrew;\012\011sub lamedhebrew dageshhebrew by lameddageshhebrew;\012\011sub memhebrew dageshhebrew by memdageshhebrew;\012\011sub nunhebrew dageshhebrew by nundageshhebrew;\012\011sub samekhhebrew dageshhebrew by samekhdageshhebrew;\012\011sub finalpehebrew dageshhebrew by finalpedageshhebrew;\012\011sub pehebrew dageshhebrew by pedageshhebrew;\011\012\011sub tsadihebrew dageshhebrew by tsadidageshhebrew;\012\011sub qofhebrew dageshhebrew by qofdageshhebrew;\012\011sub reshhebrew dageshhebrew by reshdageshhebrew;\012\011sub shinhebrew dageshhebrew by shindageshhebrew;\012\011sub tavhebrew dageshhebrew by tavdageshhebrew;\012\012\011sub shinhebrew shindothebrew dageshhebrew by shindageshshindothebrew;\012\011sub shinhebrew dageshhebrew shindothebrew by shindageshshindothebrew;\012\011sub shinhebrew shindothebrew by shinshindothebrew;\012\011sub shinhebrew sindothebrew dageshhebrew by shindageshsindothebrew;\012\011sub shinhebrew dageshhebrew sindothebrew by shindageshsindothebrew;\012\011sub shinhebrew sindothebrew by shinsindothebrew;\012\011\012\011sub vavhebrew holamhebrew by vavholamhebrew;\012\011\012\011sub bethebrew rafehebrew by betrafehebrew;\012\011sub kafhebrew rafehebrew by kafrafehebrew;\012\011sub pehebrew rafehebrew by perafehebrew;\012\012\011sub finalkafhebrew qamatshebrew' by qamatsqatanhebrew;\012\012\011language JII;\012\011\012\011sub bethebrew dageshhebrew by betdageshhebrew;\012\011sub gimelhebrew dageshhebrew by gimeldageshhebrew;\012\011sub dalethebrew dageshhebrew by daletdageshhebrew;\012\011sub hehebrew dageshhebrew by hedageshhebrew;\012\011sub vavhebrew dageshhebrew by vavdageshhebrew;\012\011sub zayinhebrew dageshhebrew by zayindageshhebrew;\012\011sub tethebrew dageshhebrew by tetdageshhebrew;\012\011sub yodhebrew dageshhebrew by yoddageshhebrew;\012\011sub finalkafhebrew dageshhebrew by finalkafdageshhebrew;\012\011sub kafhebrew dageshhebrew by kafdageshhebrew;\012\011sub lamedhebrew dageshhebrew by lameddageshhebrew;\012\011sub memhebrew dageshhebrew by memdageshhebrew;\012\011sub nunhebrew dageshhebrew by nundageshhebrew;\012\011sub samekhhebrew dageshhebrew by samekhdageshhebrew;\012\011sub finalpehebrew dageshhebrew by finalpedageshhebrew;\012\011sub pehebrew dageshhebrew by pedageshhebrew;\011\012\011sub tsadihebrew dageshhebrew by tsadidageshhebrew;\012\011sub qofhebrew dageshhebrew by qofdageshhebrew;\012\011sub reshhebrew dageshhebrew by reshdageshhebrew;\012\011sub shinhebrew dageshhebrew by shindageshhebrew;\012\011sub tavhebrew dageshhebrew by tavdageshhebrew;\012\012\011sub shinhebrew shindothebrew dageshhebrew by shindageshshindothebrew;\012\011sub shinhebrew dageshhebrew shindothebrew by shindageshshindothebrew;\012\011sub shinhebrew shindothebrew by shinshindothebrew;\012\011sub shinhebrew sindothebrew dageshhebrew by shindageshsindothebrew;\012\011sub shinhebrew dageshhebrew sindothebrew by shindageshsindothebrew;\012\011sub shinhebrew sindothebrew by shinsindothebrew;\012\011\012\011sub vavhebrew holamhebrew by vavholamhebrew;\012\011\012\011sub bethebrew rafehebrew by betrafehebrew;\012\011sub kafhebrew rafehebrew by kafrafehebrew;\012\011sub pehebrew rafehebrew by perafehebrew;\012\012\011language JUD;\012\011\012\011sub bethebrew dageshhebrew by betdageshhebrew;\012\011sub gimelhebrew dageshhebrew by gimeldageshhebrew;\012\011sub dalethebrew dageshhebrew by daletdageshhebrew;\012\011sub hehebrew dageshhebrew by hedageshhebrew;\012\011sub vavhebrew dageshhebrew by vavdageshhebrew;\012\011sub zayinhebrew dageshhebrew by zayindageshhebrew;\012\011sub tethebrew dageshhebrew by tetdageshhebrew;\012\011sub yodhebrew dageshhebrew by yoddageshhebrew;\012\011sub finalkafhebrew dageshhebrew by finalkafdageshhebrew;\012\011sub kafhebrew dageshhebrew by kafdageshhebrew;\012\011sub lamedhebrew dageshhebrew by lameddageshhebrew;\012\011sub memhebrew dageshhebrew by memdageshhebrew;\012\011sub nunhebrew dageshhebrew by nundageshhebrew;\012\011sub samekhhebrew dageshhebrew by samekhdageshhebrew;\012\011sub finalpehebrew dageshhebrew by finalpedageshhebrew;\012\011sub pehebrew dageshhebrew by pedageshhebrew;\011\012\011sub tsadihebrew dageshhebrew by tsadidageshhebrew;\012\011sub qofhebrew dageshhebrew by qofdageshhebrew;\012\011sub reshhebrew dageshhebrew by reshdageshhebrew;\012\011sub shinhebrew dageshhebrew by shindageshhebrew;\012\011sub tavhebrew dageshhebrew by tavdageshhebrew;\012\012\011sub shinhebrew shindothebrew dageshhebrew by shindageshshindothebrew;\012\011sub shinhebrew dageshhebrew shindothebrew by shindageshshindothebrew;\012\011sub shinhebrew shindothebrew by shinshindothebrew;\012\011sub shinhebrew sindothebrew dageshhebrew by shindageshsindothebrew;\012\011sub shinhebrew dageshhebrew sindothebrew by shindageshsindothebrew;\012\011sub shinhebrew sindothebrew by shinsindothebrew;\012\011\012\011sub vavhebrew holamhebrew by vavholamhebrew;\012\011\012\011sub bethebrew rafehebrew by betrafehebrew;\012\011sub kafhebrew rafehebrew by kafrafehebrew;\012\011sub pehebrew rafehebrew by perafehebrew;\012";
+code = "\011script hebr;\012\011\012\011sub betdageshhebrew by bethebrew dageshhebrew;\012\011sub gimeldageshhebrew by gimelhebrew dageshhebrew;\012\011sub daletdageshhebrew by dalethebrew dageshhebrew;\012\011sub hedageshhebrew by hehebrew dageshhebrew;\012\011sub vavdageshhebrew by vavhebrew dageshhebrew;\012\011sub zayindageshhebrew by zayinhebrew dageshhebrew;\012\011sub tetdageshhebrew by tethebrew dageshhebrew;\012\011sub yoddageshhebrew by yodhebrew dageshhebrew;\012\011sub finalkafdageshhebrew by finalkafhebrew dageshhebrew;\012\011sub kafdageshhebrew by kafhebrew dageshhebrew;\012\011sub lameddageshhebrew by lamedhebrew dageshhebrew;\012\011sub memdageshhebrew by memhebrew dageshhebrew;\012\011sub nundageshhebrew by nunhebrew dageshhebrew;\012\011sub samekhdageshhebrew by samekhhebrew dageshhebrew;\012\011sub finalpedageshhebrew by finalpehebrew dageshhebrew;\012\011sub pedageshhebrew by pehebrew dageshhebrew;\012\011sub tsadidageshhebrew by tsadihebrew dageshhebrew;\012\011sub qofdageshhebrew by qofhebrew dageshhebrew;\012\011sub reshdageshhebrew by reshhebrew dageshhebrew;\012\011sub shindageshhebrew by shinhebrew dageshhebrew;\012\011sub tavdageshhebrew by tavhebrew dageshhebrew;\012\012\011sub shindageshshindothebrew by shinhebrew shindothebrew dageshhebrew;\012\011sub shinshindothebrew by shinhebrew shindothebrew;\012\011sub shindageshsindothebrew by shinhebrew sindothebrew dageshhebrew;\012\011sub shinsindothebrew by shinhebrew sindothebrew;\012\011\012\011sub vavholamhebrew by vavhebrew holamhebrew;\012\011\012\011sub betrafehebrew by bethebrew rafehebrew;\012\011sub kafrafehebrew by kafhebrew rafehebrew;\012\011sub perafehebrew by pehebrew rafehebrew;\012\011\012\011sub finalkafhebrew qamatshebrew' by qamatsqatanhebrew; #fix collision of qamats in final kaf\012\012\011language IWR;\012\011\012\011sub betdageshhebrew by bethebrew dageshhebrew;\012\011sub gimeldageshhebrew by gimelhebrew dageshhebrew;\012\011sub daletdageshhebrew by dalethebrew dageshhebrew;\012\011sub hedageshhebrew by hehebrew dageshhebrew;\012\011sub vavdageshhebrew by vavhebrew dageshhebrew;\012\011sub zayindageshhebrew by zayinhebrew dageshhebrew;\012\011sub tetdageshhebrew by tethebrew dageshhebrew;\012\011sub yoddageshhebrew by yodhebrew dageshhebrew;\012\011sub finalkafdageshhebrew by finalkafhebrew dageshhebrew;\012\011sub kafdageshhebrew by kafhebrew dageshhebrew;\012\011sub lameddageshhebrew by lamedhebrew dageshhebrew;\012\011sub memdageshhebrew by memhebrew dageshhebrew;\012\011sub nundageshhebrew by nunhebrew dageshhebrew;\012\011sub samekhdageshhebrew by samekhhebrew dageshhebrew;\012\011sub finalpedageshhebrew by finalpehebrew dageshhebrew;\012\011sub pedageshhebrew by pehebrew dageshhebrew;\012\011sub tsadidageshhebrew by tsadihebrew dageshhebrew;\012\011sub qofdageshhebrew by qofhebrew dageshhebrew;\012\011sub reshdageshhebrew by reshhebrew dageshhebrew;\012\011sub shindageshhebrew by shinhebrew dageshhebrew;\012\011sub tavdageshhebrew by tavhebrew dageshhebrew;\012\012\011sub shindageshshindothebrew by shinhebrew shindothebrew dageshhebrew;\012\011sub shinshindothebrew by shinhebrew shindothebrew;\012\011sub shindageshsindothebrew by shinhebrew sindothebrew dageshhebrew;\012\011sub shinsindothebrew by shinhebrew sindothebrew;\012\011\012\011sub vavholamhebrew by vavhebrew holamhebrew;\012\011\012\011sub betrafehebrew by bethebrew rafehebrew;\012\011sub kafrafehebrew by kafhebrew rafehebrew;\012\011sub perafehebrew by pehebrew rafehebrew;\012\011\012\011sub finalkafhebrew qamatshebrew' by qamatsqatanhebrew; #fix collision of qamats in final kaf\012\012\011language JII;\012\011\012\011sub betdageshhebrew by bethebrew dageshhebrew;\012\011sub gimeldageshhebrew by gimelhebrew dageshhebrew;\012\011sub daletdageshhebrew by dalethebrew dageshhebrew;\012\011sub hedageshhebrew by hehebrew dageshhebrew;\012\011sub vavdageshhebrew by vavhebrew dageshhebrew;\012\011sub zayindageshhebrew by zayinhebrew dageshhebrew;\012\011sub tetdageshhebrew by tethebrew dageshhebrew;\012\011sub yoddageshhebrew by yodhebrew dageshhebrew;\012\011sub finalkafdageshhebrew by finalkafhebrew dageshhebrew;\012\011sub kafdageshhebrew by kafhebrew dageshhebrew;\012\011sub lameddageshhebrew by lamedhebrew dageshhebrew;\012\011sub memdageshhebrew by memhebrew dageshhebrew;\012\011sub nundageshhebrew by nunhebrew dageshhebrew;\012\011sub samekhdageshhebrew by samekhhebrew dageshhebrew;\012\011sub finalpedageshhebrew by finalpehebrew dageshhebrew;\012\011sub pedageshhebrew by pehebrew dageshhebrew;\012\011sub tsadidageshhebrew by tsadihebrew dageshhebrew;\012\011sub qofdageshhebrew by qofhebrew dageshhebrew;\012\011sub reshdageshhebrew by reshhebrew dageshhebrew;\012\011sub shindageshhebrew by shinhebrew dageshhebrew;\012\011sub tavdageshhebrew by tavhebrew dageshhebrew;\012\012\011sub shindageshshindothebrew by shinhebrew shindothebrew dageshhebrew;\012\011sub shinshindothebrew by shinhebrew shindothebrew;\012\011sub shindageshsindothebrew by shinhebrew sindothebrew dageshhebrew;\012\011sub shinsindothebrew by shinhebrew sindothebrew;\012\011\012\011sub vavholamhebrew by vavhebrew holamhebrew;\012\011\012\011sub betrafehebrew by bethebrew rafehebrew;\012\011sub kafrafehebrew by kafhebrew rafehebrew;\012\011sub perafehebrew by pehebrew rafehebrew;\012\011\012\011sub finalkafhebrew qamatshebrew' by qamatsqatanhebrew; #fix collision of qamats in final kaf\012\012\011language JUD;\012\011\012\011sub betdageshhebrew by bethebrew dageshhebrew;\012\011sub gimeldageshhebrew by gimelhebrew dageshhebrew;\012\011sub daletdageshhebrew by dalethebrew dageshhebrew;\012\011sub hedageshhebrew by hehebrew dageshhebrew;\012\011sub vavdageshhebrew by vavhebrew dageshhebrew;\012\011sub zayindageshhebrew by zayinhebrew dageshhebrew;\012\011sub tetdageshhebrew by tethebrew dageshhebrew;\012\011sub yoddageshhebrew by yodhebrew dageshhebrew;\012\011sub finalkafdageshhebrew by finalkafhebrew dageshhebrew;\012\011sub kafdageshhebrew by kafhebrew dageshhebrew;\012\011sub lameddageshhebrew by lamedhebrew dageshhebrew;\012\011sub memdageshhebrew by memhebrew dageshhebrew;\012\011sub nundageshhebrew by nunhebrew dageshhebrew;\012\011sub samekhdageshhebrew by samekhhebrew dageshhebrew;\012\011sub finalpedageshhebrew by finalpehebrew dageshhebrew;\012\011sub pedageshhebrew by pehebrew dageshhebrew;\012\011sub tsadidageshhebrew by tsadihebrew dageshhebrew;\012\011sub qofdageshhebrew by qofhebrew dageshhebrew;\012\011sub reshdageshhebrew by reshhebrew dageshhebrew;\012\011sub shindageshhebrew by shinhebrew dageshhebrew;\012\011sub tavdageshhebrew by tavhebrew dageshhebrew;\012\012\011sub shindageshshindothebrew by shinhebrew shindothebrew dageshhebrew;\012\011sub shinshindothebrew by shinhebrew shindothebrew;\012\011sub shindageshsindothebrew by shinhebrew sindothebrew dageshhebrew;\012\011sub shinsindothebrew by shinhebrew sindothebrew;\012\011\012\011sub vavholamhebrew by vavhebrew holamhebrew;\012\011\012\011sub betrafehebrew by bethebrew rafehebrew;\012\011sub kafrafehebrew by kafhebrew rafehebrew;\012\011sub perafehebrew by pehebrew rafehebrew;\012\011\012\011sub finalkafhebrew qamatshebrew' by qamatsqatanhebrew; #fix collision of qamats in final kaf\012";
 name = ccmp;
 },
 {
@@ -56081,13 +56071,13 @@ unicode = FB4F;
 },
 {
 glyphname = alefhebrew;
-lastChange = "2015-11-25 16:31:38 +0000";
+lastChange = "2015-11-26 16:09:57 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-position = "{653, 0}";
+position = "{697, 0}";
 },
 {
 name = bottomleft;
@@ -57281,13 +57271,13 @@ unicode = 05D0;
 },
 {
 glyphname = bethebrew;
-lastChange = "2015-11-25 16:31:38 +0000";
+lastChange = "2015-11-26 16:10:06 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-position = "{481, 0}";
+position = "{466, 0}";
 },
 {
 name = bottomleft;
@@ -58822,13 +58812,13 @@ unicode = 05D2;
 },
 {
 glyphname = dalethebrew;
-lastChange = "2015-11-25 16:31:39 +0000";
+lastChange = "2015-11-26 16:10:25 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-position = "{657, 0}";
+position = "{651, 0}";
 },
 {
 name = bottomleft;
@@ -59514,13 +59504,13 @@ unicode = 05D3;
 },
 {
 glyphname = hehebrew;
-lastChange = "2015-11-25 16:31:38 +0000";
+lastChange = "2015-11-26 16:10:37 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-position = "{653, 0}";
+position = "{673, 0}";
 },
 {
 name = bottomleft;
@@ -61610,13 +61600,13 @@ unicode = 05D6;
 },
 {
 glyphname = hethebrew;
-lastChange = "2015-11-25 16:31:38 +0000";
+lastChange = "2015-11-26 16:10:57 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-position = "{697, 0}";
+position = "{688, 0}";
 },
 {
 name = bottomleft;
@@ -62311,13 +62301,13 @@ unicode = 05D7;
 },
 {
 glyphname = tethebrew;
-lastChange = "2015-11-25 16:31:38 +0000";
+lastChange = "2015-11-26 16:11:01 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-position = "{653, 0}";
+position = "{674, 0}";
 },
 {
 name = bottomleft;
@@ -63108,13 +63098,13 @@ unicode = 05D8;
 },
 {
 glyphname = yodhebrew;
-lastChange = "2015-11-25 16:31:38 +0000";
+lastChange = "2015-11-26 16:11:08 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-position = "{367, 0}";
+position = "{348, 0}";
 },
 {
 name = bottomleft;
@@ -65564,13 +65554,13 @@ unicode = 05DC;
 },
 {
 glyphname = finalmemhebrew;
-lastChange = "2015-11-25 16:31:38 +0000";
+lastChange = "2015-11-26 16:12:41 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-position = "{689, 0}";
+position = "{679, 0}";
 },
 {
 name = bottomleft;
@@ -66309,13 +66299,13 @@ unicode = 05DD;
 },
 {
 glyphname = memhebrew;
-lastChange = "2015-11-25 16:31:38 +0000";
+lastChange = "2015-11-26 16:13:55 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-position = "{653, 0}";
+position = "{707, 0}";
 },
 {
 name = bottomleft;
@@ -66444,7 +66434,7 @@ width = 1305;
 anchors = (
 {
 name = bottom;
-position = "{659, 0}";
+position = "{683, 0}";
 },
 {
 name = bottomleft;
@@ -66582,7 +66572,7 @@ width = 1317;
 anchors = (
 {
 name = bottom;
-position = "{669, 0}";
+position = "{707, 0}";
 },
 {
 name = bottomleft;
@@ -68418,13 +68408,13 @@ unicode = 05E0;
 },
 {
 glyphname = samekhhebrew;
-lastChange = "2015-11-25 16:31:39 +0000";
+lastChange = "2015-11-26 16:13:06 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-position = "{653, 0}";
+position = "{687, 0}";
 },
 {
 name = bottomleft;
@@ -75141,7 +75131,7 @@ unicode = 05E9;
 },
 {
 glyphname = tavhebrew;
-lastChange = "2015-11-25 16:31:39 +0000";
+lastChange = "2015-11-26 16:13:32 +0000";
 layers = (
 {
 anchors = (
@@ -75394,7 +75384,7 @@ width = 1317;
 anchors = (
 {
 name = bottom;
-position = "{716, 0}";
+position = "{701, 0}";
 },
 {
 name = bottomleft;
@@ -75986,7 +75976,7 @@ unicode = 05EA;
 },
 {
 glyphname = yodhiriqhebrew;
-lastChange = "2015-11-26 14:44:12 +0000";
+lastChange = "2015-11-26 16:08:28 +0000";
 layers = (
 {
 components = (
@@ -75995,7 +75985,7 @@ name = yodhebrew;
 },
 {
 name = hiriqhebrew;
-transform = "{1, 0, 0, 1, 205, 0}";
+transform = "{1, 0, 0, 1, -529, 0}";
 }
 );
 layerId = "DDA1A922-6BCD-4FE9-B3B8-E722553F0315";
@@ -77797,7 +77787,7 @@ unicode = FB2A;
 },
 {
 glyphname = shinsindothebrew;
-lastChange = "2015-11-26 14:44:12 +0000";
+lastChange = "2015-11-26 16:08:28 +0000";
 layers = (
 {
 components = (
@@ -77806,7 +77796,7 @@ name = shinhebrew;
 },
 {
 name = sindothebrew;
-transform = "{1, 0, 0, 1, 40, 0}";
+transform = "{1, 0, 0, 1, -1265, 0}";
 }
 );
 layerId = "DDA1A922-6BCD-4FE9-B3B8-E722553F0315";
@@ -78024,7 +78014,7 @@ unicode = FB2B;
 },
 {
 glyphname = shindageshshindothebrew;
-lastChange = "2015-11-26 14:44:12 +0000";
+lastChange = "2015-11-26 16:08:28 +0000";
 layers = (
 {
 components = (
@@ -78033,7 +78023,7 @@ name = shinhebrew;
 },
 {
 name = dageshhebrew;
-transform = "{1, 0, 0, 1, 447, -4}";
+transform = "{1, 0, 0, 1, -858, -4}";
 },
 {
 name = shindothebrew;
@@ -78499,7 +78489,7 @@ unicode = FB2C;
 },
 {
 glyphname = shindageshsindothebrew;
-lastChange = "2015-11-26 14:44:12 +0000";
+lastChange = "2015-11-26 16:08:28 +0000";
 layers = (
 {
 components = (
@@ -78508,7 +78498,7 @@ name = shinhebrew;
 },
 {
 name = dageshhebrew;
-transform = "{1, 0, 0, 1, 447, -4}";
+transform = "{1, 0, 0, 1, -858, -4}";
 },
 {
 name = sindothebrew;
@@ -79518,7 +79508,7 @@ unicode = FB2E;
 },
 {
 glyphname = alefqamatshebrew;
-lastChange = "2015-11-26 14:44:12 +0000";
+lastChange = "2015-11-26 16:08:28 +0000";
 layers = (
 {
 components = (
@@ -79527,7 +79517,7 @@ name = alefhebrew;
 },
 {
 name = qamatshebrew;
-transform = "{1, 0, 0, 1, 345, 0}";
+transform = "{1, 0, 0, 1, -960, 0}";
 }
 );
 layerId = "DDA1A922-6BCD-4FE9-B3B8-E722553F0315";
@@ -80130,7 +80120,7 @@ unicode = FB2F;
 },
 {
 glyphname = alefdageshhebrew;
-lastChange = "2015-11-26 14:44:12 +0000";
+lastChange = "2015-11-26 16:08:28 +0000";
 layers = (
 {
 components = (
@@ -80139,7 +80129,7 @@ name = alefhebrew;
 },
 {
 name = dageshhebrew;
-transform = "{1, 0, 0, 1, 243, -252}";
+transform = "{1, 0, 0, 1, -1062, -252}";
 }
 );
 layerId = "DDA1A922-6BCD-4FE9-B3B8-E722553F0315";
@@ -80610,7 +80600,7 @@ unicode = FB30;
 },
 {
 glyphname = betdageshhebrew;
-lastChange = "2015-11-26 14:44:12 +0000";
+lastChange = "2015-11-26 16:08:28 +0000";
 layers = (
 {
 components = (
@@ -80619,7 +80609,7 @@ name = bethebrew;
 },
 {
 name = dageshhebrew;
-transform = "{1, 0, 0, 1, 24, -4}";
+transform = "{1, 0, 0, 1, -996, -4}";
 }
 );
 layerId = "DDA1A922-6BCD-4FE9-B3B8-E722553F0315";
@@ -80893,7 +80883,7 @@ unicode = FB31;
 },
 {
 glyphname = gimeldageshhebrew;
-lastChange = "2015-11-26 14:44:12 +0000";
+lastChange = "2015-11-26 16:08:28 +0000";
 layers = (
 {
 components = (
@@ -80902,7 +80892,7 @@ name = gimelhebrew;
 },
 {
 name = dageshhebrew;
-transform = "{1, 0, 0, 1, -145, -4}";
+transform = "{1, 0, 0, 1, -879, -4}";
 }
 );
 layerId = "DDA1A922-6BCD-4FE9-B3B8-E722553F0315";
@@ -81447,7 +81437,7 @@ unicode = FB32;
 },
 {
 glyphname = daletdageshhebrew;
-lastChange = "2015-11-26 14:44:12 +0000";
+lastChange = "2015-11-26 16:08:28 +0000";
 layers = (
 {
 components = (
@@ -81456,7 +81446,7 @@ name = dalethebrew;
 },
 {
 name = dageshhebrew;
-transform = "{1, 0, 0, 1, 2, -4}";
+transform = "{1, 0, 0, 1, -1018, -4}";
 }
 );
 layerId = "DDA1A922-6BCD-4FE9-B3B8-E722553F0315";
@@ -81861,7 +81851,7 @@ unicode = FB33;
 },
 {
 glyphname = hedageshhebrew;
-lastChange = "2015-11-26 14:44:12 +0000";
+lastChange = "2015-11-26 16:08:28 +0000";
 layers = (
 {
 components = (
@@ -81870,7 +81860,7 @@ name = hehebrew;
 },
 {
 name = dageshhebrew;
-transform = "{1, 0, 0, 1, 267, -4}";
+transform = "{1, 0, 0, 1, -1038, -4}";
 }
 );
 layerId = "DDA1A922-6BCD-4FE9-B3B8-E722553F0315";
@@ -82338,7 +82328,7 @@ unicode = FB34;
 },
 {
 glyphname = vavdageshhebrew;
-lastChange = "2015-11-26 14:44:12 +0000";
+lastChange = "2015-11-26 16:08:28 +0000";
 layers = (
 {
 components = (
@@ -82347,7 +82337,7 @@ name = vavhebrew;
 },
 {
 name = dageshhebrew;
-transform = "{1, 0, 0, 1, -141, -4}";
+transform = "{1, 0, 0, 1, -875, -4}";
 }
 );
 layerId = "DDA1A922-6BCD-4FE9-B3B8-E722553F0315";
@@ -82674,7 +82664,7 @@ unicode = FB35;
 },
 {
 glyphname = zayindageshhebrew;
-lastChange = "2015-11-26 14:44:12 +0000";
+lastChange = "2015-11-26 16:08:28 +0000";
 layers = (
 {
 components = (
@@ -82683,7 +82673,7 @@ name = zayinhebrew;
 },
 {
 name = dageshhebrew;
-transform = "{1, 0, 0, 1, -311, -4}";
+transform = "{1, 0, 0, 1, -1045, -4}";
 }
 );
 layerId = "DDA1A922-6BCD-4FE9-B3B8-E722553F0315";
@@ -83128,7 +83118,7 @@ unicode = FB36;
 },
 {
 glyphname = tetdageshhebrew;
-lastChange = "2015-11-26 14:44:12 +0000";
+lastChange = "2015-11-26 16:08:28 +0000";
 layers = (
 {
 components = (
@@ -83137,7 +83127,7 @@ name = tethebrew;
 },
 {
 name = dageshhebrew;
-transform = "{1, 0, 0, 1, 345, -4}";
+transform = "{1, 0, 0, 1, -960, -4}";
 }
 );
 layerId = "DDA1A922-6BCD-4FE9-B3B8-E722553F0315";
@@ -83623,7 +83613,7 @@ unicode = FB38;
 },
 {
 glyphname = yoddageshhebrew;
-lastChange = "2015-11-26 14:44:12 +0000";
+lastChange = "2015-11-26 16:08:28 +0000";
 layers = (
 {
 components = (
@@ -83632,7 +83622,7 @@ name = yodhebrew;
 },
 {
 name = dageshhebrew;
-transform = "{1, 0, 0, 1, -185, 80}";
+transform = "{1, 0, 0, 1, -919, 80}";
 }
 );
 layerId = "DDA1A922-6BCD-4FE9-B3B8-E722553F0315";
@@ -83968,7 +83958,7 @@ unicode = FB39;
 },
 {
 glyphname = finalkafdageshhebrew;
-lastChange = "2015-11-26 14:44:12 +0000";
+lastChange = "2015-11-26 16:08:28 +0000";
 layers = (
 {
 components = (
@@ -83977,7 +83967,7 @@ name = finalkafhebrew;
 },
 {
 name = dageshhebrew;
-transform = "{1, 0, 0, 1, -26, -4}";
+transform = "{1, 0, 0, 1, -1046, -4}";
 }
 );
 layerId = "DDA1A922-6BCD-4FE9-B3B8-E722553F0315";
@@ -84359,7 +84349,7 @@ unicode = FB3A;
 },
 {
 glyphname = kafdageshhebrew;
-lastChange = "2015-11-26 14:44:12 +0000";
+lastChange = "2015-11-26 16:08:28 +0000";
 layers = (
 {
 components = (
@@ -84368,7 +84358,7 @@ name = kafhebrew;
 },
 {
 name = dageshhebrew;
-transform = "{1, 0, 0, 1, 54, -4}";
+transform = "{1, 0, 0, 1, -966, -4}";
 }
 );
 layerId = "DDA1A922-6BCD-4FE9-B3B8-E722553F0315";
@@ -84721,7 +84711,7 @@ unicode = FB3B;
 },
 {
 glyphname = lameddageshhebrew;
-lastChange = "2015-11-26 14:44:12 +0000";
+lastChange = "2015-11-26 16:08:28 +0000";
 layers = (
 {
 components = (
@@ -84730,7 +84720,7 @@ name = lamedhebrew;
 },
 {
 name = dageshhebrew;
-transform = "{1, 0, 0, 1, 42, -4}";
+transform = "{1, 0, 0, 1, -978, -4}";
 }
 );
 layerId = "DDA1A922-6BCD-4FE9-B3B8-E722553F0315";
@@ -85126,7 +85116,7 @@ unicode = FB3C;
 },
 {
 glyphname = memdageshhebrew;
-lastChange = "2015-11-26 14:44:12 +0000";
+lastChange = "2015-11-26 16:08:28 +0000";
 layers = (
 {
 components = (
@@ -85135,7 +85125,7 @@ name = memhebrew;
 },
 {
 name = dageshhebrew;
-transform = "{1, 0, 0, 1, 343, -4}";
+transform = "{1, 0, 0, 1, -962, -4}";
 }
 );
 layerId = "DDA1A922-6BCD-4FE9-B3B8-E722553F0315";
@@ -85684,7 +85674,7 @@ unicode = FB3E;
 },
 {
 glyphname = nundageshhebrew;
-lastChange = "2015-11-26 14:44:12 +0000";
+lastChange = "2015-11-26 16:08:28 +0000";
 layers = (
 {
 components = (
@@ -85693,7 +85683,7 @@ name = nunhebrew;
 },
 {
 name = dageshhebrew;
-transform = "{1, 0, 0, 1, -118, -4}";
+transform = "{1, 0, 0, 1, -852, -4}";
 }
 );
 layerId = "DDA1A922-6BCD-4FE9-B3B8-E722553F0315";
@@ -86038,7 +86028,7 @@ unicode = FB40;
 },
 {
 glyphname = samekhdageshhebrew;
-lastChange = "2015-11-26 14:44:12 +0000";
+lastChange = "2015-11-26 16:08:28 +0000";
 layers = (
 {
 components = (
@@ -86047,7 +86037,7 @@ name = samekhhebrew;
 },
 {
 name = dageshhebrew;
-transform = "{1, 0, 0, 1, 317, -4}";
+transform = "{1, 0, 0, 1, -988, -4}";
 }
 );
 layerId = "DDA1A922-6BCD-4FE9-B3B8-E722553F0315";
@@ -86458,7 +86448,7 @@ unicode = FB41;
 },
 {
 glyphname = finalpedageshhebrew;
-lastChange = "2015-11-26 14:44:12 +0000";
+lastChange = "2015-11-26 16:08:28 +0000";
 layers = (
 {
 components = (
@@ -86467,7 +86457,7 @@ name = finalpehebrew;
 },
 {
 name = dageshhebrew;
-transform = "{1, 0, 0, 1, 163, -71}";
+transform = "{1, 0, 0, 1, -857, -71}";
 }
 );
 layerId = "DDA1A922-6BCD-4FE9-B3B8-E722553F0315";
@@ -86914,7 +86904,7 @@ unicode = FB43;
 },
 {
 glyphname = pedageshhebrew;
-lastChange = "2015-11-26 14:44:12 +0000";
+lastChange = "2015-11-26 16:08:28 +0000";
 layers = (
 {
 components = (
@@ -86923,7 +86913,7 @@ name = pehebrew;
 },
 {
 name = dageshhebrew;
-transform = "{1, 0, 0, 1, 189, -4}";
+transform = "{1, 0, 0, 1, -831, -4}";
 }
 );
 layerId = "DDA1A922-6BCD-4FE9-B3B8-E722553F0315";
@@ -87379,7 +87369,7 @@ unicode = FB44;
 },
 {
 glyphname = tsadidageshhebrew;
-lastChange = "2015-11-26 14:44:12 +0000";
+lastChange = "2015-11-26 16:08:28 +0000";
 layers = (
 {
 components = (
@@ -87388,7 +87378,7 @@ name = tsadihebrew;
 },
 {
 name = dageshhebrew;
-transform = "{1, 0, 0, 1, -154, -55}";
+transform = "{1, 0, 0, 1, -1170, -55}";
 }
 );
 layerId = "DDA1A922-6BCD-4FE9-B3B8-E722553F0315";
@@ -87844,7 +87834,7 @@ unicode = FB46;
 },
 {
 glyphname = qofdageshhebrew;
-lastChange = "2015-11-26 14:44:12 +0000";
+lastChange = "2015-11-26 16:08:28 +0000";
 layers = (
 {
 components = (
@@ -87853,7 +87843,7 @@ name = qofhebrew;
 },
 {
 name = dageshhebrew;
-transform = "{1, 0, 0, 1, 308, -4}";
+transform = "{1, 0, 0, 1, -997, -4}";
 }
 );
 layerId = "DDA1A922-6BCD-4FE9-B3B8-E722553F0315";
@@ -88352,7 +88342,7 @@ unicode = FB47;
 },
 {
 glyphname = reshdageshhebrew;
-lastChange = "2015-11-26 14:44:12 +0000";
+lastChange = "2015-11-26 16:08:28 +0000";
 layers = (
 {
 components = (
@@ -88361,7 +88351,7 @@ name = reshhebrew;
 },
 {
 name = dageshhebrew;
-transform = "{1, 0, 0, 1, 38, 16}";
+transform = "{1, 0, 0, 1, -982, 16}";
 }
 );
 layerId = "DDA1A922-6BCD-4FE9-B3B8-E722553F0315";
@@ -88670,7 +88660,7 @@ unicode = FB48;
 },
 {
 glyphname = shindageshhebrew;
-lastChange = "2015-11-26 14:44:12 +0000";
+lastChange = "2015-11-26 16:08:28 +0000";
 layers = (
 {
 components = (
@@ -88679,7 +88669,7 @@ name = shinhebrew;
 },
 {
 name = dageshhebrew;
-transform = "{1, 0, 0, 1, 447, -4}";
+transform = "{1, 0, 0, 1, -858, -4}";
 }
 );
 layerId = "DDA1A922-6BCD-4FE9-B3B8-E722553F0315";
@@ -89277,7 +89267,7 @@ unicode = FB49;
 },
 {
 glyphname = tavdageshhebrew;
-lastChange = "2015-11-26 14:44:12 +0000";
+lastChange = "2015-11-26 16:08:28 +0000";
 layers = (
 {
 components = (
@@ -89286,7 +89276,7 @@ name = tavhebrew;
 },
 {
 name = dageshhebrew;
-transform = "{1, 0, 0, 1, 347, -4}";
+transform = "{1, 0, 0, 1, -958, -4}";
 }
 );
 layerId = "DDA1A922-6BCD-4FE9-B3B8-E722553F0315";
@@ -89783,7 +89773,7 @@ unicode = FB4A;
 },
 {
 glyphname = vavholamhebrew;
-lastChange = "2015-11-26 14:44:12 +0000";
+lastChange = "2015-11-26 16:09:37 +0000";
 layers = (
 {
 components = (
@@ -89792,7 +89782,7 @@ name = vavhebrew;
 },
 {
 name = holamhebrew;
-transform = "{1, 0, 0, 1, 462, 0}";
+transform = "{1, 0, 0, 1, -272, 0}";
 }
 );
 layerId = "DDA1A922-6BCD-4FE9-B3B8-E722553F0315";
@@ -90119,7 +90109,7 @@ unicode = FB4B;
 },
 {
 glyphname = betrafehebrew;
-lastChange = "2015-11-26 14:44:12 +0000";
+lastChange = "2015-11-26 16:08:28 +0000";
 layers = (
 {
 components = (
@@ -90128,7 +90118,7 @@ name = bethebrew;
 },
 {
 name = rafehebrew;
-transform = "{1, 0, 0, 1, 154, 0}";
+transform = "{1, 0, 0, 1, -866, 0}";
 }
 );
 layerId = "DDA1A922-6BCD-4FE9-B3B8-E722553F0315";
@@ -90584,7 +90574,7 @@ unicode = FB4C;
 },
 {
 glyphname = kafrafehebrew;
-lastChange = "2015-11-26 14:44:12 +0000";
+lastChange = "2015-11-26 16:08:28 +0000";
 layers = (
 {
 components = (
@@ -90593,7 +90583,7 @@ name = kafhebrew;
 },
 {
 name = rafehebrew;
-transform = "{1, 0, 0, 1, 154, 0}";
+transform = "{1, 0, 0, 1, -866, 0}";
 }
 );
 layerId = "DDA1A922-6BCD-4FE9-B3B8-E722553F0315";
@@ -91007,7 +90997,7 @@ unicode = FB4D;
 },
 {
 glyphname = perafehebrew;
-lastChange = "2015-11-26 14:44:12 +0000";
+lastChange = "2015-11-26 16:08:28 +0000";
 layers = (
 {
 components = (
@@ -91016,7 +91006,7 @@ name = pehebrew;
 },
 {
 name = rafehebrew;
-transform = "{1, 0, 0, 1, 154, 0}";
+transform = "{1, 0, 0, 1, -866, 0}";
 }
 );
 layerId = "DDA1A922-6BCD-4FE9-B3B8-E722553F0315";
