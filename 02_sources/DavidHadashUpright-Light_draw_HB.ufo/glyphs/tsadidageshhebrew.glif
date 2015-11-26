@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="tsadidageshhebrew" format="1">
+  <advance width="1016"/>
+  <unicode hex="FB46"/>
+  <outline>
+    <component base="tsadihebrew"/>
+    <component base="dageshhebrew" xOffset="-163" yOffset="-61"/>
+  </outline>
+</glyph>

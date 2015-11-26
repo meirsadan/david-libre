@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="shindageshsindothebrew" format="1">
+  <advance width="1301"/>
+  <unicode hex="FB2D"/>
+  <outline>
+    <contour>
+      <point x="439" y="1199" type="curve" smooth="yes"/>
+      <point x="439" y="1159"/>
+      <point x="405" y="1127"/>
+      <point x="366" y="1127" type="curve" smooth="yes"/>
+      <point x="325" y="1127"/>
+      <point x="292" y="1159"/>
+      <point x="292" y="1199" type="curve" smooth="yes"/>
+      <point x="292" y="1240"/>
+      <point x="325" y="1272"/>
+      <point x="366" y="1272" type="curve" smooth="yes"/>
+      <point x="405" y="1272"/>
+      <point x="439" y="1240"/>
+    </contour>
+    <component base="shinhebrew"/>
+    <component base="dageshhebrew" xOffset="445"/>
+  </outline>
+</glyph>

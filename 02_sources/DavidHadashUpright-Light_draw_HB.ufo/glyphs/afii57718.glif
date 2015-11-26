@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="afii57718" format="1">
+  <advance width="1368"/>
+  <unicode hex="05F2"/>
+  <outline>
+    <component base="yodhebrew"/>
+    <component base="yodhebrew" xOffset="634"/>
+  </outline>
+</glyph>
