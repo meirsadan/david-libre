@@ -1,6 +1,8 @@
 {
 DisplayStrings = (
-"/alefhebrew/bethebrew/gimelhebrew/dalethebrew/hehebrew/vavhebrew/zayinhebrew/hethebrew/tethebrew/yodhebrew/finalkafhebrew/kafhebrew/lamedhebrew/finalmemhebrew/memhebrew/finalnunhebrew/nunhebrew/samekhhebrew/ayinhebrew/finalpehebrew/pehebrew/finaltsadihebrew/tsadihebrew/qofhebrew/reshhebrew/shinhebrew/tavhebrew  "
+"/alefhebrew/bethebrew/gimelhebrew/dalethebrew/hehebrew/vavhebrew/zayinhebrew/hethebrew/tethebrew/yodhebrew/finalkafhebrew/kafhebrew/lamedhebrew/finalmemhebrew/memhebrew/finalnunhebrew/nunhebrew/samekhhebrew/ayinhebrew/finalpehebrew/pehebrew/finaltsadihebrew/tsadihebrew/qofhebrew/reshhebrew/shinhebrew/tavhebrew  ",
+/vavhebrew/holamhebrew,
+/merkhakefulalefthebrew
 );
 copyright = "Copyright (c) 2014 Monotype Imaging Inc. (licensing@monotype.com). All Rights Reserved. David Hadash is a trademark of Monotype Imaging Inc. Reserved Font Name \"\"Hadash\"\". Contains portions from Gentium Basic Copyright (c) SIL International, 2003-2008.";
 customParameters = (
@@ -63659,13 +63661,13 @@ unicode = 05D9;
 },
 {
 glyphname = finalkafhebrew;
-lastChange = "2015-11-25 17:08:57 +0000";
+lastChange = "2015-12-01 07:49:10 +0000";
 layers = (
 {
 anchors = (
 {
 name = bottom;
-position = "{328, 614}";
+position = "{328, 468}";
 },
 {
 name = bottomleft;
@@ -72758,7 +72760,7 @@ unicode = 05E6;
 },
 {
 glyphname = qofhebrew;
-lastChange = "2015-11-25 16:31:38 +0000";
+lastChange = "2015-12-01 07:51:50 +0000";
 layers = (
 {
 anchors = (
@@ -72772,7 +72774,7 @@ position = "{60, 0}";
 },
 {
 name = center;
-position = "{694, 495}";
+position = "{683, 495}";
 },
 {
 name = top;
@@ -76873,7 +76875,7 @@ unicode = FB20;
 },
 {
 glyphname = widealefhebrew;
-lastChange = "2015-11-25 16:31:38 +0000";
+lastChange = "2015-12-01 07:46:54 +0000";
 layers = (
 {
 components = (
@@ -76883,7 +76885,7 @@ name = alefhebrew;
 );
 layerId = "DDA1A922-6BCD-4FE9-B3B8-E722553F0315";
 name = Regular;
-width = 1305;
+width = 1239;
 },
 {
 components = (
@@ -76949,7 +76951,7 @@ unicode = FB22;
 },
 {
 glyphname = widehehebrew;
-lastChange = "2015-11-25 16:31:38 +0000";
+lastChange = "2015-12-01 07:46:54 +0000";
 layers = (
 {
 components = (
@@ -76959,7 +76961,7 @@ name = hehebrew;
 );
 layerId = "DDA1A922-6BCD-4FE9-B3B8-E722553F0315";
 name = Regular;
-width = 1305;
+width = 1285;
 },
 {
 components = (
@@ -77025,7 +77027,7 @@ unicode = FB24;
 },
 {
 glyphname = widelamedhebrew;
-lastChange = "2015-11-25 16:31:38 +0000";
+lastChange = "2015-12-01 07:46:54 +0000";
 layers = (
 {
 components = (
@@ -77035,7 +77037,7 @@ name = lamedhebrew;
 );
 layerId = "DDA1A922-6BCD-4FE9-B3B8-E722553F0315";
 name = Regular;
-width = 1020;
+width = 1040;
 },
 {
 components = (
@@ -77101,7 +77103,7 @@ unicode = FB26;
 },
 {
 glyphname = widereshhebrew;
-lastChange = "2015-11-25 16:31:38 +0000";
+lastChange = "2015-12-01 07:46:54 +0000";
 layers = (
 {
 components = (
@@ -77111,7 +77113,7 @@ name = reshhebrew;
 );
 layerId = "DDA1A922-6BCD-4FE9-B3B8-E722553F0315";
 name = Regular;
-width = 1020;
+width = 1040;
 },
 {
 components = (
@@ -77139,7 +77141,7 @@ unicode = FB27;
 },
 {
 glyphname = widetavhebrew;
-lastChange = "2015-11-25 16:31:38 +0000";
+lastChange = "2015-12-01 07:46:54 +0000";
 layers = (
 {
 components = (
@@ -77149,7 +77151,7 @@ name = tavhebrew;
 );
 layerId = "DDA1A922-6BCD-4FE9-B3B8-E722553F0315";
 name = Regular;
-width = 1305;
+width = 1310;
 },
 {
 components = (
@@ -77791,7 +77793,7 @@ unicode = FB2A;
 },
 {
 glyphname = shinsindothebrew;
-lastChange = "2015-11-29 22:46:21 +0000";
+lastChange = "2015-12-01 07:46:54 +0000";
 layers = (
 {
 components = (
@@ -77805,7 +77807,7 @@ transform = "{1, 0, 0, 1, 40, 0}";
 );
 layerId = "DDA1A922-6BCD-4FE9-B3B8-E722553F0315";
 name = Regular;
-width = 1305;
+width = 1325;
 },
 {
 components = (
@@ -78018,7 +78020,7 @@ unicode = FB2B;
 },
 {
 glyphname = shindageshshindothebrew;
-lastChange = "2015-11-29 22:46:21 +0000";
+lastChange = "2015-12-01 07:46:54 +0000";
 layers = (
 {
 components = (
@@ -78036,7 +78038,7 @@ transform = "{1, 0, 0, 1, 40, 0}";
 );
 layerId = "DDA1A922-6BCD-4FE9-B3B8-E722553F0315";
 name = Regular;
-width = 1305;
+width = 1325;
 },
 {
 components = (
@@ -78493,7 +78495,7 @@ unicode = FB2C;
 },
 {
 glyphname = shindageshsindothebrew;
-lastChange = "2015-11-29 22:46:21 +0000";
+lastChange = "2015-12-01 07:46:54 +0000";
 layers = (
 {
 components = (
@@ -78511,7 +78513,7 @@ transform = "{1, 0, 0, 1, 40, 0}";
 );
 layerId = "DDA1A922-6BCD-4FE9-B3B8-E722553F0315";
 name = Regular;
-width = 1305;
+width = 1325;
 },
 {
 components = (
@@ -78960,7 +78962,7 @@ unicode = FB2D;
 },
 {
 glyphname = alefpatahhebrew;
-lastChange = "2015-11-25 16:31:38 +0000";
+lastChange = "2015-12-01 07:46:54 +0000";
 layers = (
 {
 components = (
@@ -78975,7 +78977,7 @@ transform = "{1, 0, 0, 1, 307, 0}";
 );
 layerId = "DDA1A922-6BCD-4FE9-B3B8-E722553F0315";
 name = Regular;
-width = 1305;
+width = 1239;
 },
 {
 components = (
@@ -79512,7 +79514,7 @@ unicode = FB2E;
 },
 {
 glyphname = alefqamatshebrew;
-lastChange = "2015-11-29 22:46:21 +0000";
+lastChange = "2015-12-01 07:46:56 +0000";
 layers = (
 {
 components = (
@@ -79521,12 +79523,12 @@ name = alefhebrew;
 },
 {
 name = qamatshebrew;
-transform = "{1, 0, 0, 1, 389, 0}";
+transform = "{1, 0, 0, 1, 323, 0}";
 }
 );
 layerId = "DDA1A922-6BCD-4FE9-B3B8-E722553F0315";
 name = Regular;
-width = 1305;
+width = 1239;
 },
 {
 components = (
@@ -80124,7 +80126,7 @@ unicode = FB2F;
 },
 {
 glyphname = alefdageshhebrew;
-lastChange = "2015-11-29 22:46:21 +0000";
+lastChange = "2015-12-01 07:46:56 +0000";
 layers = (
 {
 components = (
@@ -80133,12 +80135,12 @@ name = alefhebrew;
 },
 {
 name = dageshhebrew;
-transform = "{1, 0, 0, 1, 243, -252}";
+transform = "{1, 0, 0, 1, 177, -252}";
 }
 );
 layerId = "DDA1A922-6BCD-4FE9-B3B8-E722553F0315";
 name = Regular;
-width = 1305;
+width = 1239;
 },
 {
 components = (
@@ -80604,7 +80606,7 @@ unicode = FB30;
 },
 {
 glyphname = betdageshhebrew;
-lastChange = "2015-11-29 22:46:21 +0000";
+lastChange = "2015-12-01 07:46:56 +0000";
 layers = (
 {
 components = (
@@ -80613,12 +80615,12 @@ name = bethebrew;
 },
 {
 name = dageshhebrew;
-transform = "{1, 0, 0, 1, 24, -4}";
+transform = "{1, 0, 0, 1, 44, -4}";
 }
 );
 layerId = "DDA1A922-6BCD-4FE9-B3B8-E722553F0315";
 name = Regular;
-width = 1020;
+width = 1040;
 },
 {
 components = (
@@ -80887,7 +80889,7 @@ unicode = FB31;
 },
 {
 glyphname = gimeldageshhebrew;
-lastChange = "2015-11-29 22:46:21 +0000";
+lastChange = "2015-12-01 07:46:56 +0000";
 layers = (
 {
 components = (
@@ -80896,12 +80898,12 @@ name = gimelhebrew;
 },
 {
 name = dageshhebrew;
-transform = "{1, 0, 0, 1, -145, -4}";
+transform = "{1, 0, 0, 1, -125, -4}";
 }
 );
 layerId = "DDA1A922-6BCD-4FE9-B3B8-E722553F0315";
 name = Regular;
-width = 734;
+width = 754;
 },
 {
 components = (
@@ -81855,7 +81857,7 @@ unicode = FB33;
 },
 {
 glyphname = hedageshhebrew;
-lastChange = "2015-11-29 22:46:21 +0000";
+lastChange = "2015-12-01 07:46:54 +0000";
 layers = (
 {
 components = (
@@ -81869,7 +81871,7 @@ transform = "{1, 0, 0, 1, 267, -4}";
 );
 layerId = "DDA1A922-6BCD-4FE9-B3B8-E722553F0315";
 name = Regular;
-width = 1305;
+width = 1285;
 },
 {
 components = (
@@ -82332,7 +82334,7 @@ unicode = FB34;
 },
 {
 glyphname = vavdageshhebrew;
-lastChange = "2015-11-29 22:46:21 +0000";
+lastChange = "2015-12-01 07:46:56 +0000";
 layers = (
 {
 components = (
@@ -82341,12 +82343,12 @@ name = vavhebrew;
 },
 {
 name = dageshhebrew;
-transform = "{1, 0, 0, 1, -141, -4}";
+transform = "{1, 0, 0, 1, -164, -4}";
 }
 );
 layerId = "DDA1A922-6BCD-4FE9-B3B8-E722553F0315";
 name = Regular;
-width = 734;
+width = 711;
 },
 {
 components = (
@@ -84715,7 +84717,7 @@ unicode = FB3B;
 },
 {
 glyphname = lameddageshhebrew;
-lastChange = "2015-11-29 22:46:21 +0000";
+lastChange = "2015-12-01 07:46:56 +0000";
 layers = (
 {
 components = (
@@ -84724,12 +84726,12 @@ name = lamedhebrew;
 },
 {
 name = dageshhebrew;
-transform = "{1, 0, 0, 1, 42, -4}";
+transform = "{1, 0, 0, 1, 62, -4}";
 }
 );
 layerId = "DDA1A922-6BCD-4FE9-B3B8-E722553F0315";
 name = Regular;
-width = 1020;
+width = 1040;
 },
 {
 components = (
@@ -85678,7 +85680,7 @@ unicode = FB3E;
 },
 {
 glyphname = nundageshhebrew;
-lastChange = "2015-11-29 22:46:21 +0000";
+lastChange = "2015-12-01 07:46:56 +0000";
 layers = (
 {
 components = (
@@ -85687,12 +85689,12 @@ name = nunhebrew;
 },
 {
 name = dageshhebrew;
-transform = "{1, 0, 0, 1, -118, -4}";
+transform = "{1, 0, 0, 1, -98, -4}";
 }
 );
 layerId = "DDA1A922-6BCD-4FE9-B3B8-E722553F0315";
 name = Regular;
-width = 734;
+width = 754;
 },
 {
 components = (
@@ -86908,7 +86910,7 @@ unicode = FB43;
 },
 {
 glyphname = pedageshhebrew;
-lastChange = "2015-11-29 22:46:21 +0000";
+lastChange = "2015-12-01 07:46:56 +0000";
 layers = (
 {
 components = (
@@ -86917,12 +86919,12 @@ name = pehebrew;
 },
 {
 name = dageshhebrew;
-transform = "{1, 0, 0, 1, 189, -4}";
+transform = "{1, 0, 0, 1, 225, -4}";
 }
 );
 layerId = "DDA1A922-6BCD-4FE9-B3B8-E722553F0315";
 name = Regular;
-width = 1020;
+width = 1056;
 },
 {
 components = (
@@ -87838,7 +87840,7 @@ unicode = FB46;
 },
 {
 glyphname = qofdageshhebrew;
-lastChange = "2015-11-29 22:46:21 +0000";
+lastChange = "2015-12-01 07:54:19 +0000";
 layers = (
 {
 components = (
@@ -87847,7 +87849,7 @@ name = qofhebrew;
 },
 {
 name = dageshhebrew;
-transform = "{1, 0, 0, 1, 308, -4}";
+transform = "{1, 0, 0, 1, 297, -4}";
 }
 );
 layerId = "DDA1A922-6BCD-4FE9-B3B8-E722553F0315";
@@ -88346,7 +88348,7 @@ unicode = FB47;
 },
 {
 glyphname = reshdageshhebrew;
-lastChange = "2015-11-29 22:46:21 +0000";
+lastChange = "2015-12-01 07:46:56 +0000";
 layers = (
 {
 components = (
@@ -88355,12 +88357,12 @@ name = reshhebrew;
 },
 {
 name = dageshhebrew;
-transform = "{1, 0, 0, 1, 38, 16}";
+transform = "{1, 0, 0, 1, 58, 16}";
 }
 );
 layerId = "DDA1A922-6BCD-4FE9-B3B8-E722553F0315";
 name = Regular;
-width = 1020;
+width = 1040;
 },
 {
 components = (
@@ -88664,7 +88666,7 @@ unicode = FB48;
 },
 {
 glyphname = shindageshhebrew;
-lastChange = "2015-11-29 22:46:21 +0000";
+lastChange = "2015-12-01 07:46:54 +0000";
 layers = (
 {
 components = (
@@ -88678,7 +88680,7 @@ transform = "{1, 0, 0, 1, 447, -4}";
 );
 layerId = "DDA1A922-6BCD-4FE9-B3B8-E722553F0315";
 name = Regular;
-width = 1305;
+width = 1325;
 },
 {
 components = (
@@ -89271,7 +89273,7 @@ unicode = FB49;
 },
 {
 glyphname = tavdageshhebrew;
-lastChange = "2015-11-29 22:46:21 +0000";
+lastChange = "2015-12-01 07:46:56 +0000";
 layers = (
 {
 components = (
@@ -89280,12 +89282,12 @@ name = tavhebrew;
 },
 {
 name = dageshhebrew;
-transform = "{1, 0, 0, 1, 347, -4}";
+transform = "{1, 0, 0, 1, 376, -4}";
 }
 );
 layerId = "DDA1A922-6BCD-4FE9-B3B8-E722553F0315";
 name = Regular;
-width = 1305;
+width = 1310;
 },
 {
 components = (
@@ -89777,7 +89779,7 @@ unicode = FB4A;
 },
 {
 glyphname = vavholamhebrew;
-lastChange = "2015-11-29 22:46:21 +0000";
+lastChange = "2015-12-01 07:46:56 +0000";
 layers = (
 {
 components = (
@@ -89786,12 +89788,12 @@ name = vavhebrew;
 },
 {
 name = holamhebrew;
-transform = "{1, 0, 0, 1, 462, 0}";
+transform = "{1, 0, 0, 1, 439, 0}";
 }
 );
 layerId = "DDA1A922-6BCD-4FE9-B3B8-E722553F0315";
 name = Regular;
-width = 734;
+width = 711;
 },
 {
 components = (
@@ -90113,7 +90115,7 @@ unicode = FB4B;
 },
 {
 glyphname = betrafehebrew;
-lastChange = "2015-11-29 22:46:21 +0000";
+lastChange = "2015-12-01 07:46:56 +0000";
 layers = (
 {
 components = (
@@ -90122,12 +90124,12 @@ name = bethebrew;
 },
 {
 name = rafehebrew;
-transform = "{1, 0, 0, 1, 154, 0}";
+transform = "{1, 0, 0, 1, 174, 0}";
 }
 );
 layerId = "DDA1A922-6BCD-4FE9-B3B8-E722553F0315";
 name = Regular;
-width = 1020;
+width = 1040;
 },
 {
 components = (
@@ -91001,7 +91003,7 @@ unicode = FB4D;
 },
 {
 glyphname = perafehebrew;
-lastChange = "2015-11-29 22:46:21 +0000";
+lastChange = "2015-12-01 07:46:56 +0000";
 layers = (
 {
 components = (
@@ -91010,12 +91012,12 @@ name = pehebrew;
 },
 {
 name = rafehebrew;
-transform = "{1, 0, 0, 1, 154, 0}";
+transform = "{1, 0, 0, 1, 190, 0}";
 }
 );
 layerId = "DDA1A922-6BCD-4FE9-B3B8-E722553F0315";
 name = Regular;
-width = 1020;
+width = 1056;
 },
 {
 components = (
@@ -152371,7 +152373,7 @@ unicode = 05B7;
 },
 {
 glyphname = holamhebrew;
-lastChange = "2015-11-23 15:39:55 +0000";
+lastChange = "2015-12-01 07:57:24 +0000";
 layers = (
 {
 anchors = (

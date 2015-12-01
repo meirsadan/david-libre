@@ -29,6 +29,10 @@ body {
 	background-color: #fdffe0;
 	color: #151515;
 	font-family: "David Hofshi";
+	-webkit-font-feature-settings: "locl";
+	-moz-font-feature-settings: "locl";
+	-ms-font-feature-settings: "locl";
+	font-feature-settings: "locl";
 	direction: rtl;
 	font-size: 18px;
 	line-height: 1.6;
