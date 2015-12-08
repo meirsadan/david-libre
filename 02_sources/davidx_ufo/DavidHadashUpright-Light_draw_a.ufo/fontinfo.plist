@@ -9,9 +9,9 @@
   <key>copyright</key>
   <string>Copyright (c) 2014 Monotype Imaging Inc. (licensing@monotype.com). All Rights Reserved.</string>
   <key>descender</key>
-  <integer>-251</integer>
+  <integer>-250</integer>
   <key>familyName</key>
-  <string>David Hadash Biblical</string>
+  <string>David X</string>
   <key>italicAngle</key>
   <integer>0</integer>
   <key>openTypeHeadCreated</key>
@@ -98,7 +98,7 @@
   <key>openTypeOS2TypoAscender</key>
   <integer>749</integer>
   <key>openTypeOS2TypoDescender</key>
-  <integer>-251</integer>
+  <integer>-250</integer>
   <key>openTypeOS2TypoLineGap</key>
   <integer>9</integer>
   <key>openTypeOS2UnicodeRanges</key>
@@ -114,7 +114,7 @@
   <key>openTypeOS2VendorID</key>
   <string>PYRS</string>
   <key>openTypeOS2WeightClass</key>
-  <integer>700</integer>
+  <integer>300</integer>
   <key>openTypeOS2WidthClass</key>
   <integer>5</integer>
   <key>openTypeOS2WinAscent</key>
@@ -135,11 +135,11 @@
   <key>postscriptUniqueID</key>
   <integer>-1</integer>
   <key>postscriptFontName</key>
-  <string>DavidHadashBiblical-Bold</string>
+  <string>DavidX</string>
   <key>postscriptForceBold</key>
   <false/>
   <key>postscriptFullName</key>
-  <string>David Hadash Biblical Bold</string>
+  <string>David X</string>
   <key>postscriptIsFixedPitch</key>
   <false/>
   <key>postscriptUnderlinePosition</key>
@@ -147,13 +147,13 @@
   <key>postscriptUnderlineThickness</key>
   <integer>50</integer>
   <key>postscriptWeightName</key>
-  <string>Bold</string>
+  <string>Light</string>
   <key>styleMapFamilyName</key>
-  <string>David Hadash Biblical</string>
+  <string>David X</string>
   <key>styleMapStyleName</key>
-  <string>bold</string>
+  <string>regular</string>
   <key>styleName</key>
-  <string>Bold</string>
+  <string>Regular</string>
   <key>trademark</key>
   <string>David Hadash is a trademark of Monotype Imaging Inc. and may be registered in certain jurisdictions.</string>
   <key>unitsPerEm</key>
@@ -165,9 +165,9 @@
   <key>year</key>
   <integer>2007</integer>
   <key>xHeight</key>
-  <integer>507</integer>
+  <integer>553</integer>
   <key>macintoshFONDName</key>
-  <string>David Hadash Biblical Bold</string>
+  <string>David X</string>
   <key>macintoshFONDFamilyID</key>
   <integer>18572</integer>
 </dict>

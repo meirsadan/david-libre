@@ -14,7 +14,7 @@ value = 18572;
 },
 {
 name = macintoshFONDName;
-value = "David Hadash Biblical Bold";
+value = "David X Bold";
 },
 {
 name = openTypeHeadFlags;
@@ -176,7 +176,7 @@ value = 2007;
 );
 date = "2007-01-18 19:34:03 +0000";
 designer = "Ismar David";
-familyName = "David Hadash Biblical";
+familyName = "David X";
 fontMaster = (
 {
 alignmentZones = (
@@ -16053,15 +16053,15 @@ instances = (
 customParameters = (
 {
 name = postscriptFontName;
-value = "DavidHadashBiblical-Bold";
+value = "DavidX-Bold";
 },
 {
 name = postscriptFullName;
-value = "David Hadash Biblical Bold";
+value = "David X Bold";
 },
 {
 name = styleMapFamilyName;
-value = "David Hadash Biblical";
+value = "David X Biblical";
 }
 );
 isBold = 1;

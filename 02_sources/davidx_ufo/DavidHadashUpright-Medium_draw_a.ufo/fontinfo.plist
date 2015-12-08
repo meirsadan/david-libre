@@ -3,19 +3,19 @@
 <plist version="1.0">
 <dict>
   <key>ascender</key>
-  <integer>749</integer>
+  <integer>750</integer>
   <key>capHeight</key>
-  <integer>700</integer>
+  <integer>698</integer>
   <key>copyright</key>
   <string>Copyright (c) 2014 Monotype Imaging Inc. (licensing@monotype.com). All Rights Reserved.</string>
   <key>descender</key>
   <integer>-250</integer>
   <key>familyName</key>
-  <string>David Hadash Biblical</string>
+  <string>David X</string>
   <key>italicAngle</key>
   <integer>0</integer>
   <key>openTypeHeadCreated</key>
-  <string>2007/01/18 21:34:03</string>
+  <string>2007/06/26 06:39:29</string>
   <key>openTypeHeadFlags</key>
   <array>
   </array>
@@ -26,7 +26,7 @@
   <key>openTypeHheaLineGap</key>
   <integer>9</integer>
   <key>openTypeNameDesigner</key>
-  <string>Ismar David</string>
+  <string></string>
   <key>openTypeNameDesignerURL</key>
   <string></string>
   <key>openTypeNameLicense</key>
@@ -34,22 +34,19 @@
   <key>openTypeNameLicenseURL</key>
   <string></string>
   <key>openTypeNameManufacturer</key>
-  <string>Ismar David</string>
+  <string></string>
   <key>openTypeNameManufacturerURL</key>
   <string></string>
   <key>openTypeNameDescription</key>
   <string></string>
+  <key>openTypeNamePreferredSubfamilyName</key>
+  <string>Medium</string>
   <key>openTypeNameSampleText</key>
   <string></string>
   <key>openTypeNameUniqueID</key>
   <string></string>
   <key>openTypeNameVersion</key>
   <string></string>
-  <key>openTypeOS2CodePageRanges</key>
-  <array>
-    <integer>5</integer>
-    <integer>53</integer>
-  </array>
   <key>openTypeOS2FamilyClass</key>
   <array>
     <integer>0</integer>
@@ -96,25 +93,15 @@
     <integer>2</integer>
   </array>
   <key>openTypeOS2TypoAscender</key>
-  <integer>749</integer>
+  <integer>750</integer>
   <key>openTypeOS2TypoDescender</key>
   <integer>-250</integer>
   <key>openTypeOS2TypoLineGap</key>
   <integer>9</integer>
-  <key>openTypeOS2UnicodeRanges</key>
-  <array>
-    <integer>0</integer>
-    <integer>1</integer>
-    <integer>11</integer>
-    <integer>31</integer>
-    <integer>33</integer>
-    <integer>38</integer>
-    <integer>62</integer>
-  </array>
   <key>openTypeOS2VendorID</key>
   <string>PYRS</string>
   <key>openTypeOS2WeightClass</key>
-  <integer>300</integer>
+  <integer>500</integer>
   <key>openTypeOS2WidthClass</key>
   <integer>5</integer>
   <key>openTypeOS2WinAscent</key>
@@ -135,11 +122,11 @@
   <key>postscriptUniqueID</key>
   <integer>-1</integer>
   <key>postscriptFontName</key>
-  <string>DavidHadashBiblical</string>
+  <string>DavidX-Medium</string>
   <key>postscriptForceBold</key>
   <false/>
   <key>postscriptFullName</key>
-  <string>David Hadash Biblical</string>
+  <string>David X Medium</string>
   <key>postscriptIsFixedPitch</key>
   <false/>
   <key>postscriptUnderlinePosition</key>
@@ -147,13 +134,13 @@
   <key>postscriptUnderlineThickness</key>
   <integer>50</integer>
   <key>postscriptWeightName</key>
-  <string>Light</string>
+  <string>Medium</string>
   <key>styleMapFamilyName</key>
-  <string>David Hadash Biblical</string>
+  <string>David X</string>
   <key>styleMapStyleName</key>
   <string>regular</string>
   <key>styleName</key>
-  <string>Regular</string>
+  <string>Medium</string>
   <key>trademark</key>
   <string>David Hadash is a trademark of Monotype Imaging Inc. and may be registered in certain jurisdictions.</string>
   <key>unitsPerEm</key>
@@ -167,8 +154,8 @@
   <key>xHeight</key>
   <integer>553</integer>
   <key>macintoshFONDName</key>
-  <string>David Hadash Biblical</string>
+  <string>David X Medium</string>
   <key>macintoshFONDFamilyID</key>
-  <integer>18572</integer>
+  <integer>128</integer>
 </dict>
 </plist>

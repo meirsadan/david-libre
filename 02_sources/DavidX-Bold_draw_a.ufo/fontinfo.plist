@@ -11,7 +11,7 @@
   <key>descender</key>
   <integer>-251</integer>
   <key>familyName</key>
-  <string>David Hadash Biblical</string>
+  <string>David X</string>
   <key>italicAngle</key>
   <integer>0</integer>
   <key>openTypeHeadCreated</key>
@@ -135,11 +135,11 @@
   <key>postscriptUniqueID</key>
   <integer>-1</integer>
   <key>postscriptFontName</key>
-  <string>DavidHadashBiblical-Bold</string>
+  <string>DavidX-Bold</string>
   <key>postscriptForceBold</key>
   <false/>
   <key>postscriptFullName</key>
-  <string>David Hadash Biblical Bold</string>
+  <string>David X Bold</string>
   <key>postscriptIsFixedPitch</key>
   <false/>
   <key>postscriptUnderlinePosition</key>
@@ -149,7 +149,7 @@
   <key>postscriptWeightName</key>
   <string>Bold</string>
   <key>styleMapFamilyName</key>
-  <string>David Hadash Biblical</string>
+  <string>David X</string>
   <key>styleMapStyleName</key>
   <string>bold</string>
   <key>styleName</key>
@@ -167,7 +167,7 @@
   <key>xHeight</key>
   <integer>507</integer>
   <key>macintoshFONDName</key>
-  <string>David Hadash Biblical Bold</string>
+  <string>David X Bold</string>
   <key>macintoshFONDFamilyID</key>
   <integer>18572</integer>
 </dict>

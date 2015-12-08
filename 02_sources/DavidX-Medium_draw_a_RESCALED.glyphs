@@ -16,7 +16,7 @@ value = 128;
 },
 {
 name = macintoshFONDName;
-value = "David Hadash Biblical Medium";
+value = "David X Medium";
 },
 {
 name = openTypeHeadFlags;
@@ -158,7 +158,7 @@ value = 2007;
 }
 );
 date = "2007-06-26 03:39:29 +0000";
-familyName = "David Hadash Biblical";
+familyName = "David X";
 fontMaster = (
 {
 alignmentZones = (
@@ -15270,15 +15270,15 @@ instances = (
 customParameters = (
 {
 name = postscriptFontName;
-value = "DavidHadashBiblical-Medium";
+value = "DavidX-Medium";
 },
 {
 name = postscriptFullName;
-value = "David Hadash Biblical Medium";
+value = "David X Medium";
 },
 {
 name = styleMapFamilyName;
-value = "David Hadash Biblical";
+value = "David X";
 }
 );
 name = Medium;

@@ -11,11 +11,11 @@
 	<key>descender</key>
 	<integer>-512</integer>
 	<key>familyName</key>
-	<string>DRAWDavid Hadash Upright</string>
+	<string>David X</string>
 	<key>macintoshFONDFamilyID</key>
 	<integer>18572</integer>
 	<key>macintoshFONDName</key>
-	<string>DRAWDavid Hadash Upright</string>
+	<string>David X</string>
 	<key>openTypeHeadCreated</key>
 	<string>2007/01/18 21:34:03</string>
 	<key>openTypeHeadFlags</key>
@@ -38,7 +38,7 @@
 	<key>openTypeNameManufacturer</key>
 	<string>Ismar David</string>
 	<key>openTypeNamePreferredFamilyName</key>
-	<string>DRAWDavid Hadash Upright</string>
+	<string>David X</string>
 	<key>openTypeNamePreferredSubfamilyName</key>
 	<string>Regular</string>
 	<key>openTypeNameSampleText</key>
@@ -135,11 +135,11 @@
 		<integer>0</integer>
 	</array>
 	<key>postscriptFontName</key>
-	<string>DRAWDavidHadashUpright</string>
+	<string>DavidX</string>
 	<key>postscriptForceBold</key>
 	<false/>
 	<key>postscriptFullName</key>
-	<string>DRAWDavid Hadash Upright</string>
+	<string>David X</string>
 	<key>postscriptIsFixedPitch</key>
 	<false/>
 	<key>postscriptOtherBlues</key>
@@ -152,13 +152,13 @@
 	<key>postscriptUniqueID</key>
 	<integer>-1</integer>
 	<key>styleMapFamilyName</key>
-	<string>DRAWDavid Hadash Upright</string>
+	<string>David X</string>
 	<key>styleMapStyleName</key>
 	<string>regular</string>
 	<key>styleName</key>
 	<string>Regular</string>
 	<key>trademark</key>
-	<string>David Hadash Upright is a trademark of Ismar David.</string>
+	<string>David Hadash is a trademark of Monotype, Inc.</string>
 	<key>unitsPerEm</key>
 	<integer>2048</integer>
 	<key>versionMajor</key>
