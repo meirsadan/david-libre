@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="gimeldageshhebrew" format="1">
-  <advance width="407"/>
-  <unicode hex="FB32"/>
-  <outline>
-    <component base="gimelhebrew"/>
-    <component base="dageshhebrew" xOffset="-83"/>
-  </outline>
-</glyph>

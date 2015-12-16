@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="zayindageshhebrew" format="1">
-  <advance width="407"/>
-  <unicode hex="FB36"/>
-  <outline>
-    <component base="zayinhebrew"/>
-    <component base="dageshhebrew" xOffset="-162"/>
-  </outline>
-</glyph>
