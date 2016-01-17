@@ -13,7 +13,7 @@ DisplayStrings = (
 /dotaccentcomb,
 /CombCircumHook.VNLP
 );
-copyright = "Copyright (c) 2014 Monotype Imaging Inc. (licensing@monotype.com). All Rights Reserved. David Hadash is a trademark of Monotype Imaging Inc. Reserved Font Name \"\"Hadash\"\". Contains portions from Gentium Basic Copyright (c) SIL International, 2003-2008.";
+copyright = "Copyright (c) 2014 Monotype Imaging Inc. (licensing@monotype.com). All Rights Reserved. David Hadash is a trademark of Monotype Imaging Inc. Reserved Font Name 'Hadash'. Copyright (c) 2003-2008 SIL International (http://www.sil.org/), with Reserved Font Names 'Gentium' and 'SIL'. Copyright (c) 2015-2016 Meir Sadan (meir@sadan.com).";
 customParameters = (
 {
 name = license;
@@ -28,8 +28,8 @@ name = vendorID;
 value = GOOG;
 }
 );
-date = "2015-11-22 21:21:53 +0000";
-designer = "Ismar David, J. Victor Gaultney and Annie Olsen";
+date = "2016-01-17 12:27:03 +0000";
+designer = "Ismar David, J. Victor Gaultney, Annie Olsen and Meir Sadan";
 designerURL = www.monotype.com;
 familyName = "David Hofshi";
 featurePrefixes = (
