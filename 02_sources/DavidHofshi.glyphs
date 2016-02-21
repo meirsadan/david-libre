@@ -17,9 +17,14 @@ value = "http://scripts.sil.org/OFL";
 {
 name = vendorID;
 value = GOOG;
+},
+{
+name = fsType;
+value = (
+);
 }
 );
-date = "2016-01-17 12:27:03 +0000";
+date = "2016-02-21 14:41:51 +0000";
 designer = "Ismar David, J. Victor Gaultney, Annie Olsen and Meir Sadan";
 designerURL = www.monotype.com;
 familyName = "David Hofshi";
@@ -158377,16 +158382,58 @@ width = 0;
 disablesNiceNames = 1;
 instances = (
 {
+customParameters = (
+{
+name = postscriptFontName;
+value = "DavidHofshi-Regular";
+},
+{
+name = postscriptFullName;
+value = "David Hofshi Regular";
+},
+{
+name = compatibleFullName;
+value = "David Hofshi Regular";
+}
+);
 interpolationWeight = 400;
 interpolationWidth = 5;
 name = Regular;
 },
 {
+customParameters = (
+{
+name = postscriptFontName;
+value = "DavidHofshi-Medium";
+},
+{
+name = postscriptFullName;
+value = "David Hofshi Medium";
+},
+{
+name = compatibleFullName;
+value = "David Hofshi Medium";
+}
+);
 interpolationWeight = 600;
 name = Medium;
 weightClass = Medium;
 },
 {
+customParameters = (
+{
+name = postscriptFontName;
+value = "DavidHofshi-Bold";
+},
+{
+name = postscriptFullName;
+value = "David Hofshi Bold";
+},
+{
+name = compatibleFullName;
+value = "David Hofshi Bold";
+}
+);
 interpolationWeight = 700;
 interpolationWidth = 5;
 isBold = 1;
@@ -158406,5 +158453,5 @@ manufacturer = "Monotype Imaging Inc. SIL International";
 manufacturerURL = www.monotype.com;
 unitsPerEm = 2048;
 versionMajor = 1;
-versionMinor = 0;
+versionMinor = 1;
 }
