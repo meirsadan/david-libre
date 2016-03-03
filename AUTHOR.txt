@@ -1,0 +1,9 @@
+# This is the official list of project authors for copyright purposes.
+# See the latter for an explanation.
+# 
+# Names should be added to this file as:
+# Name or Organization <email address>
+
+Monotype Imaging Inc. <licensing@monotype.com>
+SIL International <AdministratorCopyrightPermissions_Intl@SIL.org>
+Meir Sadan <meir@sadan.com>
