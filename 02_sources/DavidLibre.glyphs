@@ -1,11 +1,11 @@
 {
-.appVersion = "854";
+.appVersion = "903";
 DisplayStrings = (
 "/alefhebrew/bethebrew/gimelhebrew/dalethebrew/hehebrew/vavhebrew/zayinhebrew/hethebrew/tethebrew/yodhebrew/finalkafhebrew/kafhebrew/lamedhebrew/finalmemhebrew/memhebrew/finalnunhebrew/nunhebrew/samekhhebrew/ayinhebrew/finalpehebrew/pehebrew/finaltsadihebrew/tsadihebrew/qofhebrew/reshhebrew/shinhebrew/tavhebrew  ",
 /qamatshebrew,
 "\U00A0"
 );
-copyright = "Copyright (c) 2003–2016 The David Hofshi Project Authors.";
+copyright = "Copyright (c) 2003–2016 The David Libre Project Authors.";
 customParameters = (
 {
 name = license;
@@ -28,7 +28,7 @@ value = (
 date = "2016-02-21 14:41:51 +0000";
 designer = "Ismar David, J. Victor Gaultney, Annie Olsen and Meir Sadan";
 designerURL = www.monotype.com;
-familyName = "David Hofshi";
+familyName = "David Libre";
 featurePrefixes = (
 {
 code = "languagesystem DFLT dflt;\012languagesystem latn dflt;\012languagesystem hebr dflt;\012languagesystem hebr IWR;\012languagesystem hebr JII;\012languagesystem hebr JUD;\012";
@@ -91,23 +91,23 @@ value = -449;
 },
 {
 name = typoLineGap;
-value = "0";
+value = 0;
 },
 {
 name = underlinePosition;
-value = "-250";
+value = -250;
 },
 {
 name = underlineThickness;
-value = "150";
+value = 150;
 },
 {
 name = winAscent;
-value = "1528";
+value = 1528;
 },
 {
 name = winDescent;
-value = "449";
+value = 449;
 }
 );
 descender = -449;
@@ -142,7 +142,7 @@ value = -449;
 },
 {
 name = typoLineGap;
-value = "0";
+value = 0;
 },
 {
 name = underlinePosition;
@@ -150,15 +150,15 @@ value = -250;
 },
 {
 name = underlineThickness;
-value = "150";
+value = 150;
 },
 {
 name = winAscent;
-value = "1528";
+value = 1528;
 },
 {
 name = winDescent;
-value = "449";
+value = 449;
 }
 );
 descender = -449;
@@ -187,7 +187,7 @@ value = -449;
 },
 {
 name = typoLineGap;
-value = "0";
+value = 0;
 },
 {
 name = underlinePosition;
@@ -195,15 +195,15 @@ value = -250;
 },
 {
 name = underlineThickness;
-value = "150";
+value = 150;
 },
 {
 name = winAscent;
-value = "1528";
+value = 1528;
 },
 {
 name = winDescent;
-value = "449";
+value = 449;
 }
 );
 descender = -449;
@@ -473,9 +473,9 @@ width = 1264;
 unicode = 00C1;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -528,9 +528,9 @@ width = 1264;
 unicode = 0102;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -595,9 +595,9 @@ width = 1264;
 unicode = 1EAE;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -662,9 +662,9 @@ width = 1264;
 unicode = 1EB6;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -729,9 +729,9 @@ width = 1264;
 unicode = 1EB0;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -796,9 +796,9 @@ width = 1264;
 unicode = 1EB2;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -851,9 +851,9 @@ width = 1264;
 unicode = 1EB4;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -906,9 +906,9 @@ width = 1264;
 unicode = 01CD;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -961,9 +961,9 @@ width = 1264;
 unicode = 00C2;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -1028,9 +1028,9 @@ width = 1264;
 unicode = 1EA4;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -1095,9 +1095,9 @@ width = 1264;
 unicode = 1EAC;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -1162,9 +1162,9 @@ width = 1264;
 unicode = 1EA6;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -1229,9 +1229,9 @@ width = 1264;
 unicode = 1EA8;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -1296,9 +1296,9 @@ width = 1264;
 unicode = 1EAA;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -1351,9 +1351,9 @@ width = 1264;
 unicode = 00C4;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -1418,9 +1418,9 @@ width = 1264;
 unicode = 01DE;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -1473,9 +1473,9 @@ width = 1264;
 unicode = 0226;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -1528,9 +1528,9 @@ width = 1264;
 unicode = 1EA0;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -1595,9 +1595,9 @@ width = 1264;
 unicode = 01E0;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -1650,9 +1650,9 @@ width = 1264;
 unicode = 00C0;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -1705,9 +1705,9 @@ width = 1264;
 unicode = 1EA2;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -1760,9 +1760,9 @@ width = 1264;
 unicode = 0100;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -1815,9 +1815,9 @@ width = 1264;
 unicode = 00C5;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -1882,9 +1882,9 @@ width = 1264;
 unicode = 01FA;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -1937,9 +1937,9 @@ width = 1264;
 unicode = 00C3;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -2266,9 +2266,9 @@ width = 1635;
 unicode = 01FC;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -2321,9 +2321,9 @@ width = 1635;
 unicode = 01E2;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -2650,9 +2650,9 @@ width = 1196;
 unicode = 1E02;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -2705,9 +2705,9 @@ width = 1196;
 unicode = 1E04;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -3067,9 +3067,9 @@ width = 1196;
 unicode = 1E06;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -3306,9 +3306,9 @@ width = 1128;
 unicode = 0106;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -3361,9 +3361,9 @@ width = 1128;
 unicode = 010C;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -3416,9 +3416,9 @@ width = 1128;
 unicode = 00C7;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -3483,9 +3483,9 @@ width = 1128;
 unicode = 1E08;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -3538,9 +3538,9 @@ width = 1128;
 unicode = 0108;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -3593,9 +3593,9 @@ width = 1128;
 unicode = 010A;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -4132,9 +4132,9 @@ width = 1274;
 unicode = 010E;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -4305,9 +4305,9 @@ width = 1274;
 unicode = 1E0A;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -4360,9 +4360,9 @@ width = 1274;
 unicode = 1E0C;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -4647,9 +4647,9 @@ width = 1274;
 unicode = 1E0E;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -4931,9 +4931,9 @@ width = 1056;
 unicode = 00C9;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -4986,9 +4986,9 @@ width = 1056;
 unicode = 0114;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -5041,9 +5041,9 @@ width = 1056;
 unicode = 011A;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -5096,9 +5096,9 @@ width = 1056;
 unicode = 0228;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -5163,9 +5163,9 @@ width = 1056;
 unicode = 1E1C;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -5218,9 +5218,9 @@ width = 1056;
 unicode = 00CA;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -5285,9 +5285,9 @@ width = 1056;
 unicode = 1EBE;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -5352,9 +5352,9 @@ width = 1056;
 unicode = 1EC6;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -5419,9 +5419,9 @@ width = 1056;
 unicode = 1EC0;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -5486,9 +5486,9 @@ width = 1056;
 unicode = 1EC2;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -5553,9 +5553,9 @@ width = 1056;
 unicode = 1EC4;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -5608,9 +5608,9 @@ width = 1056;
 unicode = 00CB;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -5663,9 +5663,9 @@ width = 1056;
 unicode = 0116;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -5718,9 +5718,9 @@ width = 1056;
 unicode = 1EB8;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -5773,9 +5773,9 @@ width = 1056;
 unicode = 00C8;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -5828,9 +5828,9 @@ width = 1056;
 unicode = 1EBA;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -5883,9 +5883,9 @@ width = 1056;
 unicode = 0112;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -5950,9 +5950,9 @@ width = 1056;
 unicode = 1E16;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -6017,9 +6017,9 @@ width = 1056;
 unicode = 1E14;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -6661,9 +6661,9 @@ width = 1056;
 unicode = 1EBC;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -6945,9 +6945,9 @@ width = 1093;
 unicode = 01EE;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -7184,9 +7184,9 @@ width = 1019;
 unicode = 1E1E;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -7447,9 +7447,9 @@ width = 1219;
 unicode = 01F4;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -7502,9 +7502,9 @@ width = 1219;
 unicode = 011E;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -7557,9 +7557,9 @@ width = 1219;
 unicode = 01E6;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -7612,9 +7612,9 @@ width = 1219;
 unicode = 011C;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -7667,9 +7667,9 @@ width = 1219;
 unicode = 0120;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -7909,9 +7909,9 @@ width = 1219;
 unicode = 1E20;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -8187,9 +8187,9 @@ width = 1379;
 unicode = 021E;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -8242,9 +8242,9 @@ width = 1379;
 unicode = 0124;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -8297,9 +8297,9 @@ width = 1379;
 unicode = 1E26;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -8352,9 +8352,9 @@ width = 1379;
 unicode = 1E22;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -8407,9 +8407,9 @@ width = 1379;
 unicode = 1E24;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -8625,9 +8625,9 @@ width = 1315;
 unicode = 0132;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -8680,9 +8680,9 @@ width = 650;
 unicode = 00CD;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -8735,9 +8735,9 @@ width = 650;
 unicode = 012C;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -8790,9 +8790,9 @@ width = 650;
 unicode = 01CF;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -8845,9 +8845,9 @@ width = 650;
 unicode = 00CE;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -8900,9 +8900,9 @@ width = 650;
 unicode = 00CF;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -8967,9 +8967,9 @@ width = 650;
 unicode = 1E2E;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -9022,9 +9022,9 @@ width = 650;
 unicode = 0130;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -9077,9 +9077,9 @@ width = 650;
 unicode = 1ECA;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -9132,9 +9132,9 @@ width = 650;
 unicode = 00CC;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -9187,9 +9187,9 @@ width = 650;
 unicode = 1EC8;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -9242,9 +9242,9 @@ width = 650;
 unicode = 012A;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -9472,9 +9472,9 @@ width = 650;
 unicode = 0128;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -9916,9 +9916,9 @@ width = 1239;
 unicode = 1E30;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -9971,9 +9971,9 @@ width = 1239;
 unicode = 01E8;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -10026,9 +10026,9 @@ width = 1239;
 unicode = 1E32;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -10331,9 +10331,9 @@ width = 1239;
 unicode = 1E34;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -10570,9 +10570,9 @@ width = 1020;
 unicode = 0139;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -10734,9 +10734,9 @@ width = 1020;
 unicode = 1E36;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -10801,9 +10801,9 @@ width = 1020;
 unicode = 1E38;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -11088,9 +11088,9 @@ width = 1020;
 unicode = 1E3A;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -11730,9 +11730,9 @@ width = 1706;
 unicode = 1E3E;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -11785,9 +11785,9 @@ width = 1706;
 unicode = 1E40;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -11840,9 +11840,9 @@ width = 1706;
 unicode = 1E42;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -12091,9 +12091,9 @@ width = 1349;
 unicode = 0143;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -12146,9 +12146,9 @@ width = 1349;
 unicode = 0147;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -12201,9 +12201,9 @@ width = 1349;
 unicode = 1E44;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -12256,9 +12256,9 @@ width = 1349;
 unicode = 1E46;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -12311,9 +12311,9 @@ width = 1349;
 unicode = 01F8;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -12829,9 +12829,9 @@ width = 1349;
 unicode = 1E48;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -12884,9 +12884,9 @@ width = 1349;
 unicode = 00D1;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -13141,9 +13141,9 @@ width = 1259;
 unicode = 00D3;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -13196,9 +13196,9 @@ width = 1259;
 unicode = 014E;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -13251,9 +13251,9 @@ width = 1259;
 unicode = 01D1;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -13493,9 +13493,9 @@ width = 1259;
 unicode = 00D4;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -13560,9 +13560,9 @@ width = 1259;
 unicode = 1ED0;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -13627,9 +13627,9 @@ width = 1259;
 unicode = 1ED8;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -13694,9 +13694,9 @@ width = 1259;
 unicode = 1ED2;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -13761,9 +13761,9 @@ width = 1259;
 unicode = 1ED4;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -13828,9 +13828,9 @@ width = 1259;
 unicode = 1ED6;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -13883,9 +13883,9 @@ width = 1259;
 unicode = 00D6;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -13950,9 +13950,9 @@ width = 1259;
 unicode = 022A;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -14005,9 +14005,9 @@ width = 1259;
 unicode = 022E;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -14072,9 +14072,9 @@ width = 1259;
 unicode = 0230;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -14127,9 +14127,9 @@ width = 1259;
 unicode = 1ECC;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -14182,9 +14182,9 @@ width = 1259;
 unicode = 00D2;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -14237,9 +14237,9 @@ width = 1259;
 unicode = 1ECE;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -14506,9 +14506,9 @@ width = 1259;
 unicode = 1EDA;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -14561,9 +14561,9 @@ width = 1259;
 unicode = 1EE2;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -14616,9 +14616,9 @@ width = 1259;
 unicode = 1EDC;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -14671,9 +14671,9 @@ width = 1259;
 unicode = 1EDE;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -14726,9 +14726,9 @@ width = 1259;
 unicode = 1EE0;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -14781,9 +14781,9 @@ width = 1259;
 unicode = 0150;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -14836,9 +14836,9 @@ width = 1259;
 unicode = 014C;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -14903,9 +14903,9 @@ width = 1259;
 unicode = 1E52;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -14970,9 +14970,9 @@ width = 1259;
 unicode = 1E50;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -15474,9 +15474,9 @@ width = 1259;
 unicode = 01FE;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -15529,9 +15529,9 @@ width = 1259;
 unicode = 00D5;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -15596,9 +15596,9 @@ width = 1259;
 unicode = 1E4C;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -15663,9 +15663,9 @@ width = 1259;
 unicode = 1E4E;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -15730,9 +15730,9 @@ width = 1259;
 unicode = 022C;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -16252,9 +16252,9 @@ width = 1131;
 unicode = 1E54;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -16307,9 +16307,9 @@ width = 1131;
 unicode = 1E56;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -17317,9 +17317,9 @@ width = 1209;
 unicode = 0154;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -17372,9 +17372,9 @@ width = 1209;
 unicode = 0158;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -17427,9 +17427,9 @@ width = 1209;
 unicode = 1E58;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -17482,9 +17482,9 @@ width = 1209;
 unicode = 1E5A;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -17549,9 +17549,9 @@ width = 1209;
 unicode = 1E5C;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -17604,9 +17604,9 @@ width = 1209;
 unicode = 1E5E;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -17864,9 +17864,9 @@ width = 1025;
 unicode = 015A;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -17931,9 +17931,9 @@ width = 1025;
 unicode = 1E64;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -18053,9 +18053,9 @@ width = 1025;
 unicode = 0160;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -18120,9 +18120,9 @@ width = 1025;
 unicode = 1E66;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -18175,9 +18175,9 @@ width = 1025;
 unicode = 015C;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -18230,9 +18230,9 @@ width = 1025;
 unicode = 1E60;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -18285,9 +18285,9 @@ width = 1025;
 unicode = 1E62;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -18352,9 +18352,9 @@ width = 1025;
 unicode = 1E68;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -18585,9 +18585,9 @@ width = 1168;
 unicode = 0164;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -18640,9 +18640,9 @@ width = 1168;
 unicode = 1E6A;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -18695,9 +18695,9 @@ width = 1168;
 unicode = 1E6C;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -18750,9 +18750,9 @@ width = 1168;
 unicode = 1E6E;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -19022,9 +19022,9 @@ width = 1359;
 unicode = 00DA;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -19321,9 +19321,9 @@ width = 1359;
 unicode = 016C;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -19376,9 +19376,9 @@ width = 1359;
 unicode = 01D3;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -19431,9 +19431,9 @@ width = 1359;
 unicode = 00DB;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -19486,9 +19486,9 @@ width = 1359;
 unicode = 00DC;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -19553,9 +19553,9 @@ width = 1359;
 unicode = 01D7;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -19620,9 +19620,9 @@ width = 1359;
 unicode = 01D9;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -19687,9 +19687,9 @@ width = 1359;
 unicode = 01DB;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -19754,9 +19754,9 @@ width = 1359;
 unicode = 01D5;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -19809,9 +19809,9 @@ width = 1359;
 unicode = 1EE4;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -19864,9 +19864,9 @@ width = 1359;
 unicode = 00D9;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -19919,9 +19919,9 @@ width = 1359;
 unicode = 1EE6;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -20182,9 +20182,9 @@ width = 1465;
 unicode = 1EE8;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -20237,9 +20237,9 @@ width = 1465;
 unicode = 1EF0;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -20292,9 +20292,9 @@ width = 1465;
 unicode = 1EEA;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -20347,9 +20347,9 @@ width = 1465;
 unicode = 1EEC;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -20402,9 +20402,9 @@ width = 1465;
 unicode = 1EEE;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -20457,9 +20457,9 @@ width = 1359;
 unicode = 0170;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -20512,9 +20512,9 @@ width = 1359;
 unicode = 016A;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -20579,9 +20579,9 @@ width = 1359;
 unicode = 1E7A;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -20634,9 +20634,9 @@ width = 1359;
 unicode = 016E;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -20689,9 +20689,9 @@ width = 1359;
 unicode = 0168;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -20756,9 +20756,9 @@ width = 1359;
 unicode = 1E78;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -20989,9 +20989,9 @@ width = 1351;
 unicode = 1E7E;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -21044,9 +21044,9 @@ width = 1351;
 unicode = 1E7C;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -21431,9 +21431,9 @@ width = 1741;
 unicode = 1E82;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -21486,9 +21486,9 @@ width = 1741;
 unicode = 0174;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -21541,9 +21541,9 @@ width = 1741;
 unicode = 1E84;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -21596,9 +21596,9 @@ width = 1741;
 unicode = 1E86;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -21651,9 +21651,9 @@ width = 1741;
 unicode = 1E88;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -21706,9 +21706,9 @@ width = 1741;
 unicode = 1E80;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -21972,9 +21972,9 @@ width = 1280;
 unicode = 1E8C;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -22027,9 +22027,9 @@ width = 1280;
 unicode = 1E8A;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -22275,9 +22275,9 @@ width = 1242;
 unicode = 00DD;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -22330,9 +22330,9 @@ width = 1242;
 unicode = 0176;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -22385,9 +22385,9 @@ width = 1242;
 unicode = 0178;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -22440,9 +22440,9 @@ width = 1242;
 unicode = 1E8E;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -22495,9 +22495,9 @@ width = 1242;
 unicode = 1EF4;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -22550,9 +22550,9 @@ width = 1242;
 unicode = 1EF2;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -22837,9 +22837,9 @@ width = 1242;
 unicode = 1EF6;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -22892,9 +22892,9 @@ width = 1242;
 unicode = 0232;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -22947,9 +22947,9 @@ width = 1242;
 unicode = 1EF8;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -23157,9 +23157,9 @@ width = 1101;
 unicode = 0179;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -23212,9 +23212,9 @@ width = 1101;
 unicode = 017D;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -23267,9 +23267,9 @@ width = 1101;
 unicode = 1E90;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -23322,9 +23322,9 @@ width = 1101;
 unicode = 017B;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -23377,9 +23377,9 @@ width = 1101;
 unicode = 1E92;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -23432,9 +23432,9 @@ width = 1101;
 unicode = 1E94;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -23785,9 +23785,9 @@ width = 995;
 unicode = 00E1;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -23840,9 +23840,9 @@ width = 995;
 unicode = 0103;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -23907,9 +23907,9 @@ width = 995;
 unicode = 1EAF;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -23974,9 +23974,9 @@ width = 995;
 unicode = 1EB7;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -24041,9 +24041,9 @@ width = 995;
 unicode = 1EB1;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -24108,9 +24108,9 @@ width = 995;
 unicode = 1EB3;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -24175,9 +24175,9 @@ width = 995;
 unicode = 1EB5;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -24230,9 +24230,9 @@ width = 995;
 unicode = 01CE;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -24285,9 +24285,9 @@ width = 995;
 unicode = 00E2;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -24352,9 +24352,9 @@ width = 995;
 unicode = 1EA5;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -24419,9 +24419,9 @@ width = 995;
 unicode = 1EAD;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -24486,9 +24486,9 @@ width = 995;
 unicode = 1EA7;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -24553,9 +24553,9 @@ width = 995;
 unicode = 1EA9;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -24620,9 +24620,9 @@ width = 995;
 unicode = 1EAB;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -24675,9 +24675,9 @@ width = 995;
 unicode = 00E4;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -24742,9 +24742,9 @@ width = 995;
 unicode = 01DF;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -24797,9 +24797,9 @@ width = 995;
 unicode = 0227;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -24852,9 +24852,9 @@ width = 995;
 unicode = 1EA1;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -24919,9 +24919,9 @@ width = 995;
 unicode = 01E1;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -24974,9 +24974,9 @@ width = 995;
 unicode = 00E0;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -25029,9 +25029,9 @@ width = 995;
 unicode = 1EA3;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -25361,9 +25361,9 @@ width = 995;
 unicode = 0101;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -25416,9 +25416,9 @@ width = 995;
 unicode = 00E5;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -25483,9 +25483,9 @@ width = 995;
 unicode = 01FB;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -25538,9 +25538,9 @@ width = 995;
 unicode = 00E3;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -25987,9 +25987,9 @@ width = 1473;
 unicode = 01FD;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -26042,9 +26042,9 @@ width = 1473;
 unicode = 01E3;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -26405,9 +26405,9 @@ width = 1080;
 unicode = 1E05;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -26710,9 +26710,9 @@ width = 1080;
 unicode = 1E07;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -26955,9 +26955,9 @@ width = 920;
 unicode = 0107;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -27010,9 +27010,9 @@ width = 920;
 unicode = 010D;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -27065,9 +27065,9 @@ width = 920;
 unicode = 00E7;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -27132,9 +27132,9 @@ width = 920;
 unicode = 1E09;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -27187,9 +27187,9 @@ width = 920;
 unicode = 0109;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -27242,9 +27242,9 @@ width = 920;
 unicode = 010B;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -28078,9 +28078,9 @@ width = 1120;
 unicode = 1E0B;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -28133,9 +28133,9 @@ width = 1120;
 unicode = 1E0D;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -28459,9 +28459,9 @@ width = 1120;
 unicode = 1E0F;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -29020,9 +29020,9 @@ width = 976;
 unicode = 00E9;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -29075,9 +29075,9 @@ width = 976;
 unicode = 0115;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -29130,9 +29130,9 @@ width = 976;
 unicode = 011B;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -29185,9 +29185,9 @@ width = 976;
 unicode = 0229;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -29252,9 +29252,9 @@ width = 976;
 unicode = 1E1D;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -29307,9 +29307,9 @@ width = 976;
 unicode = 00EA;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -29374,9 +29374,9 @@ width = 976;
 unicode = 1EBF;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -29441,9 +29441,9 @@ width = 976;
 unicode = 1EC7;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -29508,9 +29508,9 @@ width = 976;
 unicode = 1EC1;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -29575,9 +29575,9 @@ width = 976;
 unicode = 1EC3;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -29642,9 +29642,9 @@ width = 976;
 unicode = 1EC5;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -29697,9 +29697,9 @@ width = 976;
 unicode = 00EB;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -29752,9 +29752,9 @@ width = 976;
 unicode = 0117;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -29807,9 +29807,9 @@ width = 976;
 unicode = 1EB9;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -29862,9 +29862,9 @@ width = 976;
 unicode = 00E8;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -29917,9 +29917,9 @@ width = 976;
 unicode = 1EBB;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -29972,9 +29972,9 @@ width = 976;
 unicode = 0113;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -30039,9 +30039,9 @@ width = 976;
 unicode = 1E17;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -30106,9 +30106,9 @@ width = 976;
 unicode = 1E15;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -30850,9 +30850,9 @@ width = 976;
 unicode = 1EBD;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -30893,9 +30893,9 @@ width = 973;
 unicode = 01DD;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -31156,9 +31156,9 @@ width = 957;
 unicode = 01EF;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -31431,9 +31431,9 @@ width = 676;
 unicode = 1E1F;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -31850,9 +31850,9 @@ width = 1039;
 unicode = 01F5;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -32134,9 +32134,9 @@ width = 1039;
 unicode = 011F;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -32189,9 +32189,9 @@ width = 1039;
 unicode = 01E7;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -32244,9 +32244,9 @@ width = 1039;
 unicode = 011D;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -32299,9 +32299,9 @@ width = 1039;
 unicode = 0121;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -32798,9 +32798,9 @@ width = 1039;
 unicode = 1E21;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -33073,9 +33073,9 @@ width = 1170;
 unicode = 021F;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -33128,9 +33128,9 @@ width = 1170;
 unicode = 0125;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -33183,9 +33183,9 @@ width = 1170;
 unicode = 1E27;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -33238,9 +33238,9 @@ width = 1170;
 unicode = 1E23;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -33293,9 +33293,9 @@ width = 1170;
 unicode = 1E25;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -33348,9 +33348,9 @@ width = 1170;
 unicode = 1E96;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -33798,9 +33798,9 @@ width = 595;
 unicode = 00ED;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -33853,9 +33853,9 @@ width = 595;
 unicode = 012D;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -33908,9 +33908,9 @@ width = 595;
 unicode = 01D0;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -33963,9 +33963,9 @@ width = 595;
 unicode = 00EE;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -34018,9 +34018,9 @@ width = 595;
 unicode = 00EF;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -34085,9 +34085,9 @@ width = 595;
 unicode = 1E2F;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -34140,9 +34140,9 @@ width = 595;
 unicode = 1ECB;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -34195,9 +34195,9 @@ width = 595;
 unicode = 00EC;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -34250,9 +34250,9 @@ width = 595;
 unicode = 1EC9;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -34305,9 +34305,9 @@ width = 1165;
 unicode = 0133;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -34360,9 +34360,9 @@ width = 595;
 unicode = 012B;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -34858,9 +34858,9 @@ width = 595;
 unicode = 0129;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -35205,9 +35205,9 @@ width = 570;
 unicode = 0237;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -35492,9 +35492,9 @@ width = 1094;
 unicode = 1E31;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -35547,9 +35547,9 @@ width = 1094;
 unicode = 01E9;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -35602,9 +35602,9 @@ width = 1094;
 unicode = 1E33;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -35895,9 +35895,9 @@ width = 1094;
 unicode = 1E35;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -36110,9 +36110,9 @@ width = 595;
 unicode = 013A;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -36337,9 +36337,9 @@ width = 595;
 unicode = 1E37;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -36404,9 +36404,9 @@ width = 595;
 unicode = 1E39;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -36667,9 +36667,9 @@ width = 595;
 unicode = 1E3B;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -37358,9 +37358,9 @@ width = 1700;
 unicode = 1E3F;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -37413,9 +37413,9 @@ width = 1700;
 unicode = 1E41;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -37468,9 +37468,9 @@ width = 1700;
 unicode = 1E43;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -37743,9 +37743,9 @@ width = 1170;
 unicode = 0144;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -37798,9 +37798,9 @@ width = 1170;
 unicode = 0148;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -37853,9 +37853,9 @@ width = 1170;
 unicode = 1E45;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -37908,9 +37908,9 @@ width = 1170;
 unicode = 1E47;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -37963,9 +37963,9 @@ width = 1170;
 unicode = 01F9;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -38505,9 +38505,9 @@ width = 1170;
 unicode = 1E49;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -38560,9 +38560,9 @@ width = 1170;
 unicode = 00F1;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -38817,9 +38817,9 @@ width = 1060;
 unicode = 00F3;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -39071,9 +39071,9 @@ width = 1060;
 unicode = 014F;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -39126,9 +39126,9 @@ width = 1060;
 unicode = 01D2;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -39181,9 +39181,9 @@ width = 1060;
 unicode = 00F4;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -39248,9 +39248,9 @@ width = 1060;
 unicode = 1ED1;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -39315,9 +39315,9 @@ width = 1060;
 unicode = 1ED9;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -39382,9 +39382,9 @@ width = 1060;
 unicode = 1ED3;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -39449,9 +39449,9 @@ width = 1060;
 unicode = 1ED5;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -39516,9 +39516,9 @@ width = 1060;
 unicode = 1ED7;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -39571,9 +39571,9 @@ width = 1060;
 unicode = 00F6;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -39638,9 +39638,9 @@ width = 1060;
 unicode = 022B;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -39693,9 +39693,9 @@ width = 1060;
 unicode = 022F;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -39760,9 +39760,9 @@ width = 1060;
 unicode = 0231;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -39815,9 +39815,9 @@ width = 1060;
 unicode = 1ECD;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -39870,9 +39870,9 @@ width = 1060;
 unicode = 00F2;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -39925,9 +39925,9 @@ width = 1060;
 unicode = 1ECF;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -40194,9 +40194,9 @@ width = 1170;
 unicode = 1EDB;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -40249,9 +40249,9 @@ width = 1170;
 unicode = 1EE3;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -40304,9 +40304,9 @@ width = 1170;
 unicode = 1EDD;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -40359,9 +40359,9 @@ width = 1170;
 unicode = 1EDF;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -40414,9 +40414,9 @@ width = 1170;
 unicode = 1EE1;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -40469,9 +40469,9 @@ width = 1060;
 unicode = 0151;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -40524,9 +40524,9 @@ width = 1060;
 unicode = 014D;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -40591,9 +40591,9 @@ width = 1060;
 unicode = 1E53;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -40658,9 +40658,9 @@ width = 1060;
 unicode = 1E51;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -41241,9 +41241,9 @@ width = 1060;
 unicode = 01FF;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -41296,9 +41296,9 @@ width = 1060;
 unicode = 00F5;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -41363,9 +41363,9 @@ width = 1060;
 unicode = 1E4D;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -41430,9 +41430,9 @@ width = 1060;
 unicode = 1E4F;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -41497,9 +41497,9 @@ width = 1060;
 unicode = 022D;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -42136,9 +42136,9 @@ width = 1125;
 unicode = 1E55;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -42191,9 +42191,9 @@ width = 1125;
 unicode = 1E57;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -43452,9 +43452,9 @@ width = 876;
 unicode = 0155;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -43507,9 +43507,9 @@ width = 876;
 unicode = 0159;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -43562,9 +43562,9 @@ width = 876;
 unicode = 1E59;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -43617,9 +43617,9 @@ width = 876;
 unicode = 1E5B;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -43684,9 +43684,9 @@ width = 876;
 unicode = 1E5D;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -43739,9 +43739,9 @@ width = 876;
 unicode = 1E5F;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -44017,9 +44017,9 @@ width = 836;
 unicode = 015B;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -44084,9 +44084,9 @@ width = 836;
 unicode = 1E65;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -44215,9 +44215,9 @@ width = 836;
 unicode = 0161;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -44282,9 +44282,9 @@ width = 836;
 unicode = 1E67;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -44337,9 +44337,9 @@ width = 836;
 unicode = 015D;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -44392,9 +44392,9 @@ width = 836;
 unicode = 1E61;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -44447,9 +44447,9 @@ width = 836;
 unicode = 1E63;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -44514,9 +44514,9 @@ width = 836;
 unicode = 1E69;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -45238,9 +45238,9 @@ width = 740;
 unicode = 1E97;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -45293,9 +45293,9 @@ width = 740;
 unicode = 1E6B;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -45348,9 +45348,9 @@ width = 740;
 unicode = 1E6D;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -45403,9 +45403,9 @@ width = 740;
 unicode = 1E6F;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -45708,9 +45708,9 @@ width = 1130;
 unicode = 00FA;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -46076,9 +46076,9 @@ width = 1130;
 unicode = 016D;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -46131,9 +46131,9 @@ width = 1130;
 unicode = 01D4;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -46186,9 +46186,9 @@ width = 1130;
 unicode = 00FB;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -46241,9 +46241,9 @@ width = 1130;
 unicode = 00FC;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -46308,9 +46308,9 @@ width = 1130;
 unicode = 01D8;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -46375,9 +46375,9 @@ width = 1130;
 unicode = 01DA;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -46442,9 +46442,9 @@ width = 1130;
 unicode = 01DC;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -46509,9 +46509,9 @@ width = 1130;
 unicode = 01D6;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -46564,9 +46564,9 @@ width = 1130;
 unicode = 1EE5;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -46619,9 +46619,9 @@ width = 1130;
 unicode = 00F9;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -46674,9 +46674,9 @@ width = 1130;
 unicode = 1EE7;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -46985,9 +46985,9 @@ width = 1342;
 unicode = 1EE9;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -47040,9 +47040,9 @@ width = 1342;
 unicode = 1EF1;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -47095,9 +47095,9 @@ width = 1342;
 unicode = 1EEB;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -47150,9 +47150,9 @@ width = 1342;
 unicode = 1EED;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -47205,9 +47205,9 @@ width = 1342;
 unicode = 1EEF;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -47260,9 +47260,9 @@ width = 1130;
 unicode = 0171;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -47315,9 +47315,9 @@ width = 1130;
 unicode = 016B;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -47382,9 +47382,9 @@ width = 1130;
 unicode = 1E7B;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -47660,9 +47660,9 @@ width = 1130;
 unicode = 016F;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -47715,9 +47715,9 @@ width = 1130;
 unicode = 0169;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -47782,9 +47782,9 @@ width = 1130;
 unicode = 1E79;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -48015,9 +48015,9 @@ width = 1030;
 unicode = 1E7F;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -48070,9 +48070,9 @@ width = 1030;
 unicode = 1E7D;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -48493,9 +48493,9 @@ width = 1461;
 unicode = 1E83;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -48548,9 +48548,9 @@ width = 1461;
 unicode = 0175;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -48603,9 +48603,9 @@ width = 1461;
 unicode = 1E85;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -48658,9 +48658,9 @@ width = 1461;
 unicode = 1E87;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -48713,9 +48713,9 @@ width = 1461;
 unicode = 1E89;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -48768,9 +48768,9 @@ width = 1461;
 unicode = 1E81;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -48823,9 +48823,9 @@ width = 1461;
 unicode = 1E98;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -49101,9 +49101,9 @@ width = 1055;
 unicode = 1E8D;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -49156,9 +49156,9 @@ width = 1055;
 unicode = 1E8B;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -49416,9 +49416,9 @@ width = 1030;
 unicode = 00FD;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -49471,9 +49471,9 @@ width = 1030;
 unicode = 0177;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -49526,9 +49526,9 @@ width = 1030;
 unicode = 00FF;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -49581,9 +49581,9 @@ width = 1030;
 unicode = 1E8F;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -49636,9 +49636,9 @@ width = 1030;
 unicode = 1EF5;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -49691,9 +49691,9 @@ width = 1030;
 unicode = 1EF3;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -49957,9 +49957,9 @@ width = 1030;
 unicode = 1EF7;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -50012,9 +50012,9 @@ width = 1030;
 unicode = 0233;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -50067,9 +50067,9 @@ width = 1030;
 unicode = 1E99;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -50122,9 +50122,9 @@ width = 1030;
 unicode = 1EF9;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -50344,9 +50344,9 @@ width = 941;
 unicode = 017A;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -50399,9 +50399,9 @@ width = 941;
 unicode = 017E;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -50454,9 +50454,9 @@ width = 941;
 unicode = 1E91;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -50509,9 +50509,9 @@ width = 941;
 unicode = 017C;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -50564,9 +50564,9 @@ width = 941;
 unicode = 1E93;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -50619,9 +50619,9 @@ width = 941;
 unicode = 1E95;
 userData = {
 com.typemytype.robofont.mark = (
-0.807,
+0.8070,
 1,
-0.6,
+0.6000,
 1
 );
 };
@@ -52865,7 +52865,7 @@ unicode = 05F1;
 },
 {
 glyphname = yodyodhebrew;
-lastChange = "2015-12-27 14:04:32 +0000";
+lastChange = "2016-06-16 10:48:35 +0000";
 layers = (
 {
 components = (
@@ -52885,7 +52885,6 @@ width = 1368;
 components = (
 {
 name = yodhebrew;
-transform = "{1, 0, 0, 1, 641, 0}";
 },
 {
 alignment = -1;
@@ -155875,37 +155874,43 @@ instances = (
 customParameters = (
 {
 name = postscriptFontName;
-value = "DavidHofshi-Regular";
+value = "DavidLibre-Regular";
 },
 {
 name = postscriptFullName;
-value = "David Hofshi Regular";
+value = "David Libre Regular";
 },
 {
 name = compatibleFullName;
-value = "David Hofshi Regular";
+value = "David Libre Regular";
 }
 );
 interpolationWeight = 400;
 interpolationWidth = 5;
+instanceInterpolations = {
+"DDA1A922-6BCD-4FE9-B3B8-E722553F0315" = 1;
+};
 name = Regular;
 },
 {
 customParameters = (
 {
 name = postscriptFontName;
-value = "DavidHofshi-Medium";
+value = "DavidLibre-Medium";
 },
 {
 name = postscriptFullName;
-value = "David Hofshi Medium";
+value = "David Libre Medium";
 },
 {
 name = compatibleFullName;
-value = "David Hofshi Medium";
+value = "David Libre Medium";
 }
 );
 interpolationWeight = 600;
+instanceInterpolations = {
+"E8A33793-4A0E-4E9A-9368-A1D232455500" = 1;
+};
 name = Medium;
 weightClass = Medium;
 },
@@ -155913,19 +155918,22 @@ weightClass = Medium;
 customParameters = (
 {
 name = postscriptFontName;
-value = "DavidHofshi-Bold";
+value = "DavidLibre-Bold";
 },
 {
 name = postscriptFullName;
-value = "David Hofshi Bold";
+value = "David Libre Bold";
 },
 {
 name = compatibleFullName;
-value = "David Hofshi Bold";
+value = "David Libre Bold";
 }
 );
 interpolationWeight = 700;
 interpolationWidth = 5;
+instanceInterpolations = {
+"8BF1279D-F38F-4102-BF8D-9111B5ED49F5" = 1;
+};
 isBold = 1;
 linkStyle = Regular;
 name = Bold;
