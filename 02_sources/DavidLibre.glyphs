@@ -1,10 +1,5 @@
 {
-.appVersion = "903";
-DisplayStrings = (
-"/alefhebrew/bethebrew/gimelhebrew/dalethebrew/hehebrew/vavhebrew/zayinhebrew/hethebrew/tethebrew/yodhebrew/finalkafhebrew/kafhebrew/lamedhebrew/finalmemhebrew/memhebrew/finalnunhebrew/nunhebrew/samekhhebrew/ayinhebrew/finalpehebrew/pehebrew/finaltsadihebrew/tsadihebrew/qofhebrew/reshhebrew/shinhebrew/tavhebrew  ",
-/qamatshebrew,
-"\U00A0"
-);
+.appVersion = "913";
 copyright = "Copyright (c) 2003–2016 The David Libre Project Authors.";
 customParameters = (
 {
@@ -971,7 +966,7 @@ com.typemytype.robofont.mark = (
 {
 color = 0;
 glyphname = Acircumflexacute;
-lastChange = "2015-11-22 15:10:53 +0000";
+lastChange = "2016-08-17 21:25:59 +0000";
 layers = (
 {
 components = (
@@ -979,12 +974,8 @@ components = (
 name = A;
 },
 {
-name = CombCircum.LP;
+name = CombCircumAcute.VNLP;
 transform = "{1, 0, 0, 1, 1113, 320}";
-},
-{
-name = CombAcute.LP;
-transform = "{1, 0, 0, 1, 1142, 720}";
 }
 );
 layerId = "DDA1A922-6BCD-4FE9-B3B8-E722553F0315";
@@ -996,12 +987,8 @@ components = (
 name = A;
 },
 {
-name = CombCircum.LP;
+name = CombCircumAcute.VNLP;
 transform = "{1, 0, 0, 1, 1147, 320}";
-},
-{
-name = CombAcute.LP;
-transform = "{1, 0, 0, 1, 1176, 720}";
 }
 );
 layerId = "8BF1279D-F38F-4102-BF8D-9111B5ED49F5";
@@ -1013,12 +1000,8 @@ components = (
 name = A;
 },
 {
-name = CombCircum.LP;
+name = CombCircumAcute.VNLP;
 transform = "{1, 0, 0, 1, 1136, 320}";
-},
-{
-name = CombAcute.LP;
-transform = "{1, 0, 0, 1, 1165, 720}";
 }
 );
 layerId = "E8A33793-4A0E-4E9A-9368-A1D232455500";
@@ -1105,7 +1088,7 @@ com.typemytype.robofont.mark = (
 {
 color = 0;
 glyphname = Acircumflexgrave;
-lastChange = "2015-11-22 15:10:53 +0000";
+lastChange = "2016-08-17 21:22:43 +0000";
 layers = (
 {
 components = (
@@ -1113,12 +1096,8 @@ components = (
 name = A;
 },
 {
-name = CombCircum.LP;
+name = CombCircumGrave.VNLP;
 transform = "{1, 0, 0, 1, 1113, 320}";
-},
-{
-name = CombGrave.LP;
-transform = "{1, 0, 0, 1, 1032, 720}";
 }
 );
 layerId = "DDA1A922-6BCD-4FE9-B3B8-E722553F0315";
@@ -1130,12 +1109,8 @@ components = (
 name = A;
 },
 {
-name = CombCircum.LP;
+name = CombCircumGrave.VNLP;
 transform = "{1, 0, 0, 1, 1147, 320}";
-},
-{
-name = CombGrave.LP;
-transform = "{1, 0, 0, 1, 1066, 720}";
 }
 );
 layerId = "8BF1279D-F38F-4102-BF8D-9111B5ED49F5";
@@ -1147,12 +1122,8 @@ components = (
 name = A;
 },
 {
-name = CombCircum.LP;
+name = CombCircumGrave.VNLP;
 transform = "{1, 0, 0, 1, 1136, 320}";
-},
-{
-name = CombGrave.LP;
-transform = "{1, 0, 0, 1, 1055, 720}";
 }
 );
 layerId = "E8A33793-4A0E-4E9A-9368-A1D232455500";
@@ -1172,7 +1143,7 @@ com.typemytype.robofont.mark = (
 {
 color = 0;
 glyphname = Acircumflexhookabove;
-lastChange = "2015-11-22 15:10:53 +0000";
+lastChange = "2016-08-17 21:26:42 +0000";
 layers = (
 {
 components = (
@@ -1180,12 +1151,8 @@ components = (
 name = A;
 },
 {
-name = CombCircum.LP;
+name = CombCircumHook.VNLP;
 transform = "{1, 0, 0, 1, 1113, 320}";
-},
-{
-name = hookabovecomb;
-transform = "{1, 0, 0, 1, 1117, 720}";
 }
 );
 layerId = "DDA1A922-6BCD-4FE9-B3B8-E722553F0315";
@@ -1197,12 +1164,8 @@ components = (
 name = A;
 },
 {
-name = CombCircum.LP;
+name = CombCircumHook.VNLP;
 transform = "{1, 0, 0, 1, 1147, 320}";
-},
-{
-name = hookabovecomb;
-transform = "{1, 0, 0, 1, 1150, 720}";
 }
 );
 layerId = "8BF1279D-F38F-4102-BF8D-9111B5ED49F5";
@@ -1214,12 +1177,8 @@ components = (
 name = A;
 },
 {
-name = CombCircum.LP;
+name = CombCircumHook.VNLP;
 transform = "{1, 0, 0, 1, 1136, 320}";
-},
-{
-name = hookabovecomb;
-transform = "{1, 0, 0, 1, 1140, 720}";
 }
 );
 layerId = "E8A33793-4A0E-4E9A-9368-A1D232455500";
@@ -5228,7 +5187,7 @@ com.typemytype.robofont.mark = (
 {
 color = 0;
 glyphname = Ecircumflexacute;
-lastChange = "2015-11-22 15:23:54 +0000";
+lastChange = "2016-08-17 21:21:10 +0000";
 layers = (
 {
 components = (
@@ -5236,12 +5195,8 @@ components = (
 name = E;
 },
 {
-name = CombCircum.LP;
+name = CombCircumAcute.VNLP;
 transform = "{1, 0, 0, 1, 1016, 320}";
-},
-{
-name = CombAcute.LP;
-transform = "{1, 0, 0, 1, 1045, 720}";
 }
 );
 layerId = "DDA1A922-6BCD-4FE9-B3B8-E722553F0315";
@@ -5253,12 +5208,8 @@ components = (
 name = E;
 },
 {
-name = CombCircum.LP;
+name = CombCircumAcute.VNLP;
 transform = "{1, 0, 0, 1, 1050, 320}";
-},
-{
-name = CombAcute.LP;
-transform = "{1, 0, 0, 1, 1079, 720}";
 }
 );
 layerId = "8BF1279D-F38F-4102-BF8D-9111B5ED49F5";
@@ -5270,12 +5221,8 @@ components = (
 name = E;
 },
 {
-name = CombCircum.LP;
+name = CombCircumAcute.VNLP;
 transform = "{1, 0, 0, 1, 1039, 320}";
-},
-{
-name = CombAcute.LP;
-transform = "{1, 0, 0, 1, 1068, 720}";
 }
 );
 layerId = "E8A33793-4A0E-4E9A-9368-A1D232455500";
@@ -5362,7 +5309,7 @@ com.typemytype.robofont.mark = (
 {
 color = 0;
 glyphname = Ecircumflexgrave;
-lastChange = "2015-11-22 15:23:59 +0000";
+lastChange = "2016-08-17 21:22:02 +0000";
 layers = (
 {
 components = (
@@ -5370,12 +5317,8 @@ components = (
 name = E;
 },
 {
-name = CombCircum.LP;
+name = CombCircumGrave.VNLP;
 transform = "{1, 0, 0, 1, 1016, 320}";
-},
-{
-name = CombGrave.LP;
-transform = "{1, 0, 0, 1, 935, 720}";
 }
 );
 layerId = "DDA1A922-6BCD-4FE9-B3B8-E722553F0315";
@@ -5387,12 +5330,8 @@ components = (
 name = E;
 },
 {
-name = CombCircum.LP;
+name = CombCircumGrave.VNLP;
 transform = "{1, 0, 0, 1, 1050, 320}";
-},
-{
-name = CombGrave.LP;
-transform = "{1, 0, 0, 1, 969, 720}";
 }
 );
 layerId = "8BF1279D-F38F-4102-BF8D-9111B5ED49F5";
@@ -5404,12 +5343,8 @@ components = (
 name = E;
 },
 {
-name = CombCircum.LP;
+name = CombCircumGrave.VNLP;
 transform = "{1, 0, 0, 1, 1039, 320}";
-},
-{
-name = CombGrave.LP;
-transform = "{1, 0, 0, 1, 958, 720}";
 }
 );
 layerId = "E8A33793-4A0E-4E9A-9368-A1D232455500";
@@ -5429,7 +5364,7 @@ com.typemytype.robofont.mark = (
 {
 color = 0;
 glyphname = Ecircumflexhookabove;
-lastChange = "2015-11-22 15:24:01 +0000";
+lastChange = "2016-08-17 21:27:19 +0000";
 layers = (
 {
 components = (
@@ -5437,12 +5372,8 @@ components = (
 name = E;
 },
 {
-name = CombCircum.LP;
+name = CombCircumHook.VNLP;
 transform = "{1, 0, 0, 1, 1016, 320}";
-},
-{
-name = hookabovecomb;
-transform = "{1, 0, 0, 1, 1020, 720}";
 }
 );
 layerId = "DDA1A922-6BCD-4FE9-B3B8-E722553F0315";
@@ -5454,12 +5385,8 @@ components = (
 name = E;
 },
 {
-name = CombCircum.LP;
+name = CombCircumHook.VNLP;
 transform = "{1, 0, 0, 1, 1050, 320}";
-},
-{
-name = hookabovecomb;
-transform = "{1, 0, 0, 1, 1053, 720}";
 }
 );
 layerId = "8BF1279D-F38F-4102-BF8D-9111B5ED49F5";
@@ -5471,12 +5398,8 @@ components = (
 name = E;
 },
 {
-name = CombCircum.LP;
+name = CombCircumHook.VNLP;
 transform = "{1, 0, 0, 1, 1039, 320}";
-},
-{
-name = hookabovecomb;
-transform = "{1, 0, 0, 1, 1043, 720}";
 }
 );
 layerId = "E8A33793-4A0E-4E9A-9368-A1D232455500";
@@ -13503,7 +13426,7 @@ com.typemytype.robofont.mark = (
 {
 color = 0;
 glyphname = Ocircumflexacute;
-lastChange = "2015-11-22 15:34:13 +0000";
+lastChange = "2016-08-17 21:25:08 +0000";
 layers = (
 {
 components = (
@@ -13511,12 +13434,8 @@ components = (
 name = O;
 },
 {
-name = CombCircum.LP;
+name = CombCircumAcute.VNLP;
 transform = "{1, 0, 0, 1, 1129, 320}";
-},
-{
-name = CombAcute.LP;
-transform = "{1, 0, 0, 1, 1158, 720}";
 }
 );
 layerId = "DDA1A922-6BCD-4FE9-B3B8-E722553F0315";
@@ -13528,12 +13447,8 @@ components = (
 name = O;
 },
 {
-name = CombCircum.LP;
+name = CombCircumAcute.VNLP;
 transform = "{1, 0, 0, 1, 1152, 320}";
-},
-{
-name = CombAcute.LP;
-transform = "{1, 0, 0, 1, 1181, 720}";
 }
 );
 layerId = "8BF1279D-F38F-4102-BF8D-9111B5ED49F5";
@@ -13545,12 +13460,8 @@ components = (
 name = O;
 },
 {
-name = CombCircum.LP;
+name = CombCircumAcute.VNLP;
 transform = "{1, 0, 0, 1, 1144, 320}";
-},
-{
-name = CombAcute.LP;
-transform = "{1, 0, 0, 1, 1173, 720}";
 }
 );
 layerId = "E8A33793-4A0E-4E9A-9368-A1D232455500";
@@ -13637,7 +13548,7 @@ com.typemytype.robofont.mark = (
 {
 color = 0;
 glyphname = Ocircumflexgrave;
-lastChange = "2015-11-22 15:34:47 +0000";
+lastChange = "2016-08-17 21:24:02 +0000";
 layers = (
 {
 components = (
@@ -13645,12 +13556,8 @@ components = (
 name = O;
 },
 {
-name = CombCircum.LP;
+name = CombCircumGrave.VNLP;
 transform = "{1, 0, 0, 1, 1129, 320}";
-},
-{
-name = CombGrave.LP;
-transform = "{1, 0, 0, 1, 1048, 720}";
 }
 );
 layerId = "DDA1A922-6BCD-4FE9-B3B8-E722553F0315";
@@ -13662,12 +13569,8 @@ components = (
 name = O;
 },
 {
-name = CombCircum.LP;
+name = CombCircumGrave.VNLP;
 transform = "{1, 0, 0, 1, 1152, 320}";
-},
-{
-name = CombGrave.LP;
-transform = "{1, 0, 0, 1, 1071, 720}";
 }
 );
 layerId = "8BF1279D-F38F-4102-BF8D-9111B5ED49F5";
@@ -13679,12 +13582,8 @@ components = (
 name = O;
 },
 {
-name = CombCircum.LP;
+name = CombCircumGrave.VNLP;
 transform = "{1, 0, 0, 1, 1144, 320}";
-},
-{
-name = CombGrave.LP;
-transform = "{1, 0, 0, 1, 1063, 720}";
 }
 );
 layerId = "E8A33793-4A0E-4E9A-9368-A1D232455500";
@@ -13704,7 +13603,7 @@ com.typemytype.robofont.mark = (
 {
 color = 0;
 glyphname = Ocircumflexhookabove;
-lastChange = "2015-11-22 15:34:49 +0000";
+lastChange = "2016-08-17 21:28:09 +0000";
 layers = (
 {
 components = (
@@ -13712,12 +13611,8 @@ components = (
 name = O;
 },
 {
-name = CombCircum.LP;
+name = CombCircumHook.VNLP;
 transform = "{1, 0, 0, 1, 1129, 320}";
-},
-{
-name = hookabovecomb;
-transform = "{1, 0, 0, 1, 1133, 720}";
 }
 );
 layerId = "DDA1A922-6BCD-4FE9-B3B8-E722553F0315";
@@ -13729,12 +13624,8 @@ components = (
 name = O;
 },
 {
-name = CombCircum.LP;
+name = CombCircumHook.VNLP;
 transform = "{1, 0, 0, 1, 1152, 320}";
-},
-{
-name = hookabovecomb;
-transform = "{1, 0, 0, 1, 1155, 720}";
 }
 );
 layerId = "8BF1279D-F38F-4102-BF8D-9111B5ED49F5";
@@ -13746,12 +13637,8 @@ components = (
 name = O;
 },
 {
-name = CombCircum.LP;
+name = CombCircumHook.VNLP;
 transform = "{1, 0, 0, 1, 1144, 320}";
-},
-{
-name = hookabovecomb;
-transform = "{1, 0, 0, 1, 1148, 720}";
 }
 );
 layerId = "E8A33793-4A0E-4E9A-9368-A1D232455500";
@@ -24295,7 +24182,7 @@ com.typemytype.robofont.mark = (
 {
 color = 0;
 glyphname = acircumflexacute;
-lastChange = "2015-11-22 15:51:15 +0000";
+lastChange = "2016-08-17 21:13:47 +0000";
 layers = (
 {
 components = (
@@ -24303,12 +24190,8 @@ components = (
 name = a;
 },
 {
-name = circumflexcomb;
+name = CombCircumAcute.VN;
 transform = "{1, 0, 0, 1, 994, 0}";
-},
-{
-name = acutecomb;
-transform = "{1, 0, 0, 1, 1023, 450}";
 }
 );
 layerId = "DDA1A922-6BCD-4FE9-B3B8-E722553F0315";
@@ -24320,12 +24203,8 @@ components = (
 name = a;
 },
 {
-name = circumflexcomb;
-transform = "{1, 0, 0, 1, 1030, 0}";
-},
-{
-name = acutecomb;
-transform = "{1, 0, 0, 1, 1056, 473}";
+name = CombCircumAcute.VN;
+transform = "{1, 0, 0, 1, 1029, 0}";
 }
 );
 layerId = "8BF1279D-F38F-4102-BF8D-9111B5ED49F5";
@@ -24337,12 +24216,8 @@ components = (
 name = a;
 },
 {
-name = circumflexcomb;
-transform = "{1, 0, 0, 1, 1018, 0}";
-},
-{
-name = acutecomb;
-transform = "{1, 0, 0, 1, 1045, 465}";
+name = CombCircumAcute.VN;
+transform = "{1, 0, 0, 1, 1017, 0}";
 }
 );
 layerId = "E8A33793-4A0E-4E9A-9368-A1D232455500";
@@ -24429,7 +24304,7 @@ com.typemytype.robofont.mark = (
 {
 color = 0;
 glyphname = acircumflexgrave;
-lastChange = "2015-11-22 15:51:19 +0000";
+lastChange = "2016-08-17 21:14:44 +0000";
 layers = (
 {
 components = (
@@ -24437,12 +24312,8 @@ components = (
 name = a;
 },
 {
-name = circumflexcomb;
+name = CombCircumGrave.VN;
 transform = "{1, 0, 0, 1, 994, 0}";
-},
-{
-name = gravecomb;
-transform = "{1, 0, 0, 1, 913, 450}";
 }
 );
 layerId = "DDA1A922-6BCD-4FE9-B3B8-E722553F0315";
@@ -24471,12 +24342,8 @@ components = (
 name = a;
 },
 {
-name = circumflexcomb;
-transform = "{1, 0, 0, 1, 1018, 0}";
-},
-{
-name = gravecomb;
-transform = "{1, 0, 0, 1, 937, 465}";
+name = CombCircumGrave.VN;
+transform = "{1, 0, 0, 1, 1017, 0}";
 }
 );
 layerId = "E8A33793-4A0E-4E9A-9368-A1D232455500";
@@ -24496,7 +24363,7 @@ com.typemytype.robofont.mark = (
 {
 color = 0;
 glyphname = acircumflexhookabove;
-lastChange = "2015-11-22 15:51:21 +0000";
+lastChange = "2016-08-17 21:16:14 +0000";
 layers = (
 {
 components = (
@@ -24504,12 +24371,8 @@ components = (
 name = a;
 },
 {
-name = circumflexcomb;
+name = CombCircumHook.VN;
 transform = "{1, 0, 0, 1, 994, 0}";
-},
-{
-name = hookabovecomb;
-transform = "{1, 0, 0, 1, 998, 450}";
 }
 );
 layerId = "DDA1A922-6BCD-4FE9-B3B8-E722553F0315";
@@ -24521,12 +24384,8 @@ components = (
 name = a;
 },
 {
-name = circumflexcomb;
-transform = "{1, 0, 0, 1, 1030, 0}";
-},
-{
-name = hookabovecomb;
-transform = "{1, 0, 0, 1, 1032, 473}";
+name = CombCircumHook.VN;
+transform = "{1, 0, 0, 1, 1029, 0}";
 }
 );
 layerId = "8BF1279D-F38F-4102-BF8D-9111B5ED49F5";
@@ -24538,12 +24397,8 @@ components = (
 name = a;
 },
 {
-name = circumflexcomb;
-transform = "{1, 0, 0, 1, 1018, 0}";
-},
-{
-name = hookabovecomb;
-transform = "{1, 0, 0, 1, 1021, 465}";
+name = CombCircumHook.VN;
+transform = "{1, 0, 0, 1, 1017, 0}";
 }
 );
 layerId = "E8A33793-4A0E-4E9A-9368-A1D232455500";
@@ -29317,7 +29172,7 @@ com.typemytype.robofont.mark = (
 {
 color = 0;
 glyphname = ecircumflexacute;
-lastChange = "2015-11-22 15:58:01 +0000";
+lastChange = "2016-08-17 21:09:40 +0000";
 layers = (
 {
 components = (
@@ -29325,12 +29180,8 @@ components = (
 name = e;
 },
 {
-name = circumflexcomb;
+name = CombCircumAcute.VN;
 transform = "{1, 0, 0, 1, 1024, 0}";
-},
-{
-name = acutecomb;
-transform = "{1, 0, 0, 1, 1053, 450}";
 }
 );
 layerId = "DDA1A922-6BCD-4FE9-B3B8-E722553F0315";
@@ -29342,12 +29193,8 @@ components = (
 name = e;
 },
 {
-name = circumflexcomb;
-transform = "{1, 0, 0, 1, 1051, 0}";
-},
-{
-name = acutecomb;
-transform = "{1, 0, 0, 1, 1077, 473}";
+name = CombCircumAcute.VN;
+transform = "{1, 0, 0, 1, 1050, 0}";
 }
 );
 layerId = "8BF1279D-F38F-4102-BF8D-9111B5ED49F5";
@@ -29359,12 +29206,8 @@ components = (
 name = e;
 },
 {
-name = circumflexcomb;
-transform = "{1, 0, 0, 1, 1042, 0}";
-},
-{
-name = acutecomb;
-transform = "{1, 0, 0, 1, 1069, 465}";
+name = CombCircumAcute.VN;
+transform = "{1, 0, 0, 1, 1041, 0}";
 }
 );
 layerId = "E8A33793-4A0E-4E9A-9368-A1D232455500";
@@ -29451,7 +29294,7 @@ com.typemytype.robofont.mark = (
 {
 color = 0;
 glyphname = ecircumflexgrave;
-lastChange = "2015-11-22 15:58:05 +0000";
+lastChange = "2016-08-17 21:11:10 +0000";
 layers = (
 {
 components = (
@@ -29459,12 +29302,8 @@ components = (
 name = e;
 },
 {
-name = circumflexcomb;
+name = CombCircumGrave.VN;
 transform = "{1, 0, 0, 1, 1024, 0}";
-},
-{
-name = gravecomb;
-transform = "{1, 0, 0, 1, 943, 450}";
 }
 );
 layerId = "DDA1A922-6BCD-4FE9-B3B8-E722553F0315";
@@ -29476,12 +29315,8 @@ components = (
 name = e;
 },
 {
-name = circumflexcomb;
-transform = "{1, 0, 0, 1, 1051, 0}";
-},
-{
-name = gravecomb;
-transform = "{1, 0, 0, 1, 971, 473}";
+name = CombCircumGrave.VN;
+transform = "{1, 0, 0, 1, 1050, 0}";
 }
 );
 layerId = "8BF1279D-F38F-4102-BF8D-9111B5ED49F5";
@@ -29493,12 +29328,8 @@ components = (
 name = e;
 },
 {
-name = circumflexcomb;
-transform = "{1, 0, 0, 1, 1042, 0}";
-},
-{
-name = gravecomb;
-transform = "{1, 0, 0, 1, 961, 465}";
+name = CombCircumGrave.VN;
+transform = "{1, 0, 0, 1, 1041, 0}";
 }
 );
 layerId = "E8A33793-4A0E-4E9A-9368-A1D232455500";
@@ -29518,7 +29349,7 @@ com.typemytype.robofont.mark = (
 {
 color = 0;
 glyphname = ecircumflexhookabove;
-lastChange = "2015-11-22 15:58:08 +0000";
+lastChange = "2016-08-17 21:12:14 +0000";
 layers = (
 {
 components = (
@@ -29526,12 +29357,8 @@ components = (
 name = e;
 },
 {
-name = circumflexcomb;
+name = CombCircumHook.VN;
 transform = "{1, 0, 0, 1, 1024, 0}";
-},
-{
-name = hookabovecomb;
-transform = "{1, 0, 0, 1, 1028, 450}";
 }
 );
 layerId = "DDA1A922-6BCD-4FE9-B3B8-E722553F0315";
@@ -29543,12 +29370,8 @@ components = (
 name = e;
 },
 {
-name = circumflexcomb;
-transform = "{1, 0, 0, 1, 1051, 0}";
-},
-{
-name = hookabovecomb;
-transform = "{1, 0, 0, 1, 1053, 473}";
+name = CombCircumHook.VN;
+transform = "{1, 0, 0, 1, 1050, 0}";
 }
 );
 layerId = "8BF1279D-F38F-4102-BF8D-9111B5ED49F5";
@@ -29560,12 +29383,8 @@ components = (
 name = e;
 },
 {
-name = circumflexcomb;
-transform = "{1, 0, 0, 1, 1042, 0}";
-},
-{
-name = hookabovecomb;
-transform = "{1, 0, 0, 1, 1045, 465}";
+name = CombCircumHook.VN;
+transform = "{1, 0, 0, 1, 1041, 0}";
 }
 );
 layerId = "E8A33793-4A0E-4E9A-9368-A1D232455500";
@@ -39191,7 +39010,7 @@ com.typemytype.robofont.mark = (
 {
 color = 0;
 glyphname = ocircumflexacute;
-lastChange = "2015-11-22 16:04:02 +0000";
+lastChange = "2016-08-17 21:05:09 +0000";
 layers = (
 {
 components = (
@@ -39199,12 +39018,8 @@ components = (
 name = o;
 },
 {
-name = circumflexcomb;
+name = CombCircumAcute.VN;
 transform = "{1, 0, 0, 1, 1049, 0}";
-},
-{
-name = acutecomb;
-transform = "{1, 0, 0, 1, 1078, 450}";
 }
 );
 layerId = "DDA1A922-6BCD-4FE9-B3B8-E722553F0315";
@@ -39216,12 +39031,8 @@ components = (
 name = o;
 },
 {
-name = circumflexcomb;
-transform = "{1, 0, 0, 1, 1074, 0}";
-},
-{
-name = acutecomb;
-transform = "{1, 0, 0, 1, 1100, 473}";
+name = CombCircumAcute.VN;
+transform = "{1, 0, 0, 1, 1073, 0}";
 }
 );
 layerId = "8BF1279D-F38F-4102-BF8D-9111B5ED49F5";
@@ -39233,12 +39044,8 @@ components = (
 name = o;
 },
 {
-name = circumflexcomb;
-transform = "{1, 0, 0, 1, 1066, 0}";
-},
-{
-name = acutecomb;
-transform = "{1, 0, 0, 1, 1093, 465}";
+name = CombCircumAcute.VN;
+transform = "{1, 0, 0, 1, 1065, 0}";
 }
 );
 layerId = "E8A33793-4A0E-4E9A-9368-A1D232455500";
@@ -39325,7 +39132,7 @@ com.typemytype.robofont.mark = (
 {
 color = 0;
 glyphname = ocircumflexgrave;
-lastChange = "2015-11-22 16:04:07 +0000";
+lastChange = "2016-08-17 21:07:21 +0000";
 layers = (
 {
 components = (
@@ -39333,12 +39140,8 @@ components = (
 name = o;
 },
 {
-name = circumflexcomb;
+name = CombCircumGrave.VN;
 transform = "{1, 0, 0, 1, 1049, 0}";
-},
-{
-name = gravecomb;
-transform = "{1, 0, 0, 1, 968, 450}";
 }
 );
 layerId = "DDA1A922-6BCD-4FE9-B3B8-E722553F0315";
@@ -39350,12 +39153,8 @@ components = (
 name = o;
 },
 {
-name = circumflexcomb;
-transform = "{1, 0, 0, 1, 1074, 0}";
-},
-{
-name = gravecomb;
-transform = "{1, 0, 0, 1, 994, 473}";
+name = CombCircumGrave.VN;
+transform = "{1, 0, 0, 1, 1073, 0}";
 }
 );
 layerId = "8BF1279D-F38F-4102-BF8D-9111B5ED49F5";
@@ -39367,12 +39166,8 @@ components = (
 name = o;
 },
 {
-name = circumflexcomb;
-transform = "{1, 0, 0, 1, 1066, 0}";
-},
-{
-name = gravecomb;
-transform = "{1, 0, 0, 1, 985, 465}";
+name = CombCircumGrave.VN;
+transform = "{1, 0, 0, 1, 1065, 0}";
 }
 );
 layerId = "E8A33793-4A0E-4E9A-9368-A1D232455500";
@@ -39392,7 +39187,7 @@ com.typemytype.robofont.mark = (
 {
 color = 0;
 glyphname = ocircumflexhookabove;
-lastChange = "2015-11-22 16:04:09 +0000";
+lastChange = "2016-08-17 21:08:36 +0000";
 layers = (
 {
 components = (
@@ -39400,12 +39195,8 @@ components = (
 name = o;
 },
 {
-name = circumflexcomb;
+name = CombCircumHook.VN;
 transform = "{1, 0, 0, 1, 1049, 0}";
-},
-{
-name = hookabovecomb;
-transform = "{1, 0, 0, 1, 1053, 450}";
 }
 );
 layerId = "DDA1A922-6BCD-4FE9-B3B8-E722553F0315";
@@ -39417,12 +39208,8 @@ components = (
 name = o;
 },
 {
-name = circumflexcomb;
-transform = "{1, 0, 0, 1, 1074, 0}";
-},
-{
-name = hookabovecomb;
-transform = "{1, 0, 0, 1, 1076, 473}";
+name = CombCircumHook.VN;
+transform = "{1, 0, 0, 1, 1073, 0}";
 }
 );
 layerId = "8BF1279D-F38F-4102-BF8D-9111B5ED49F5";
@@ -39434,12 +39221,8 @@ components = (
 name = o;
 },
 {
-name = circumflexcomb;
-transform = "{1, 0, 0, 1, 1066, 0}";
-},
-{
-name = hookabovecomb;
-transform = "{1, 0, 0, 1, 1069, 465}";
+name = CombCircumHook.VN;
+transform = "{1, 0, 0, 1, 1065, 0}";
 }
 );
 layerId = "E8A33793-4A0E-4E9A-9368-A1D232455500";
