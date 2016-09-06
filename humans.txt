@@ -3,11 +3,13 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Meir Sadan -- Author -- @meirsadan
 
 # THANKS
 
-    <name>
+    Dave Crossland
+    Omer Ziv
+    Helen Brandshaft
 
 # TECHNOLOGY COLOPHON
 
