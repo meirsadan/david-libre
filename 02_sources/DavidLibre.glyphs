@@ -1,5 +1,9 @@
 {
-.appVersion = "913";
+.appVersion = "926";
+DisplayStrings = (
+/vavyodhebrew/vavhebrew/yodhebrew/yodhebrew/vavhebrew,
+/vavyodhebrew
+);
 copyright = "Copyright (c) 2003–2016 The David Libre Project Authors.";
 customParameters = (
 {
@@ -23,6 +27,7 @@ value = (
 date = "2016-02-21 14:41:51 +0000";
 designer = "Ismar David, J. Victor Gaultney, Annie Olsen and Meir Sadan";
 designerURL = www.monotype.com;
+disablesNiceNames = 1;
 familyName = "David Libre";
 featurePrefixes = (
 {
@@ -62,8 +67,7 @@ code = "sub [zero one two three four five six seven eight nine] [A a]' by ordfem
 name = ordn;
 },
 {
-automatic = 1;
-code = "sub vavhebrew vavhebrew by vavvavhebrew;\012sub yodhebrew vavhebrew by vavyodhebrew;\012sub yodhebrew yodhebrew by yodyodhebrew;\012sub alefhebrew lamedhebrew by aleflamedhebrew;\012";
+code = "sub vavhebrew vavhebrew by vavvavhebrew;\012sub vavhebrew yodhebrew by vavyodhebrew;\012sub yodhebrew yodhebrew by yodyodhebrew;\012sub alefhebrew lamedhebrew by aleflamedhebrew;\012";
 name = dlig;
 },
 {
@@ -52142,7 +52146,7 @@ unicode = 05F0;
 },
 {
 glyphname = vavyodhebrew;
-lastChange = "2016-01-12 14:04:07 +0000";
+lastChange = "2016-10-05 09:52:38 +0000";
 layers = (
 {
 components = (
@@ -52648,34 +52652,39 @@ unicode = 05F1;
 },
 {
 glyphname = yodyodhebrew;
-lastChange = "2016-06-16 10:48:35 +0000";
+lastChange = "2016-10-05 09:52:24 +0000";
 layers = (
 {
 components = (
 {
 alignment = -1;
 name = yodhebrew;
-transform = "{1, 0, 0, 1, 634, 0}";
+transform = "{1, 0, 0, 1, 718, 0}";
 },
 {
 name = yodhebrew;
 }
 );
 layerId = "DDA1A922-6BCD-4FE9-B3B8-E722553F0315";
-width = 1368;
+width = 1452;
 },
 {
 components = (
 {
+alignment = -1;
 name = yodhebrew;
+transform = "{1, 0, 0, 1, 716, 0}";
 },
 {
 alignment = -1;
 name = yodhebrew;
+},
+{
+name = yodhebrew;
 }
 );
 layerId = "8BF1279D-F38F-4102-BF8D-9111B5ED49F5";
-width = 1377;
+width = 1452;
 },
 {
 associatedMasterId = "DDA1A922-6BCD-4FE9-B3B8-E722553F0315";
@@ -52836,16 +52845,20 @@ width = 1292;
 {
 components = (
 {
+alignment = -1;
 name = yodhebrew;
-transform = "{1, 0, 0, 1, 650, 0}";
+transform = "{1, 0, 0, 1, 722, 0}";
 },
 {
 alignment = -1;
 name = yodhebrew;
+},
+{
+name = yodhebrew;
 }
 );
 layerId = "E8A33793-4A0E-4E9A-9368-A1D232455500";
-width = 1380;
+width = 1452;
 },
 {
 associatedMasterId = "E8A33793-4A0E-4E9A-9368-A1D232455500";
@@ -155651,7 +155664,6 @@ width = 0;
 );
 }
 );
-disablesNiceNames = 1;
 instances = (
 {
 customParameters = (
@@ -155734,5 +155746,5 @@ manufacturer = "Monotype Imaging Inc. & SIL International";
 manufacturerURL = www.monotype.com;
 unitsPerEm = 2048;
 versionMajor = 1;
-versionMinor = 1;
+versionMinor = 2;
 }
