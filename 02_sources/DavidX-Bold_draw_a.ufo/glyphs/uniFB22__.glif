@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uniFB22" format="1">
-  <advance width="567"/>
-  <unicode hex="FB22"/>
-  <outline>
-    <component base="dalethebrew"/>
-  </outline>
-</glyph>

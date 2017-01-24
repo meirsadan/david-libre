@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="nundageshhebrew" format="1">
-  <advance width="407"/>
-  <unicode hex="FB40"/>
-  <outline>
-    <component base="nunhebrew"/>
-    <component base="dageshhebrew" xOffset="-66"/>
-  </outline>
-</glyph>
