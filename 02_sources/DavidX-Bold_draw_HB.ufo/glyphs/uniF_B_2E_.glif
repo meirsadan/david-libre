@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uniFB2E" format="1">
-  <advance width="1301"/>
-  <unicode hex="FB2E"/>
-  <outline>
-    <component base="alefhebrew" yOffset="2"/>
-    <component base="patahhebrew" xOffset="305"/>
-  </outline>
-</glyph>

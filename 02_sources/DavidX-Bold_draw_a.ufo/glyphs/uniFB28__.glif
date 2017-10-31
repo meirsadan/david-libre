@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="uniFB28" format="1">
-  <advance width="726"/>
-  <unicode hex="FB28"/>
-  <outline>
-    <component base="tavhebrew"/>
-  </outline>
-</glyph>
