@@ -1,7 +1,7 @@
 # David Libre
 This Libre version of the David Hebrew is based on David Hadash Formal, released by Monotype Corporation in 2012. David Hadash Formal is a modern digitization made from original large scale technical drawings for the typeface drawn by Ismar David and approved by his estate.
 
-![David Libre Sample in 3 weights](https://github.com/meirsadan/david-libre/raw/master/05_documentation/sample.png "David Libre in 3 weights")
+![David Libre Sample in 3 weights](https://github.com/meirsadan/david-libre/raw/master/documentation/sample.png "David Libre in 3 weights")
 
 ## What typographic features are available in David Libre?
 * Full Hebrew set with diacritic marks (nikud)
