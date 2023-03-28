@@ -51414,6 +51414,12 @@ unicode = 03C0;
 glyphname = vavvavhebrew;
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{708, 0}";
+}
+);
 components = (
 {
 alignment = -1;
@@ -51428,6 +51434,12 @@ layerId = "DDA1A922-6BCD-4FE9-B3B8-E722553F0315";
 width = 1345;
 },
 {
+anchors = (
+{
+name = bottom;
+position = "{772, 0}";
+}
+);
 components = (
 {
 alignment = -1;
@@ -51442,6 +51454,12 @@ layerId = "8BF1279D-F38F-4102-BF8D-9111B5ED49F5";
 width = 1323;
 },
 {
+anchors = (
+{
+name = bottom;
+position = "{673, 0}";
+}
+);
 associatedMasterId = "DDA1A922-6BCD-4FE9-B3B8-E722553F0315";
 layerId = "A2D58F9C-C221-4CD7-B74E-73FFE5923235";
 name = "Regular Nov 21 15, 01:49";
@@ -51604,6 +51622,12 @@ nodes = (
 width = 1263;
 },
 {
+anchors = (
+{
+name = bottom;
+position = "{800, 0}";
+}
+);
 components = (
 {
 alignment = -1;
@@ -51618,6 +51642,12 @@ layerId = "E8A33793-4A0E-4E9A-9368-A1D232455500";
 width = 1337;
 },
 {
+anchors = (
+{
+name = bottom;
+position = "{673, 0}";
+}
+);
 associatedMasterId = "E8A33793-4A0E-4E9A-9368-A1D232455500";
 layerId = "2D788044-1074-4D20-8C31-CD23BF6DA7B5";
 name = "SemiBold Nov 22 15, 23:13";
@@ -51750,6 +51780,12 @@ nodes = (
 width = 1341;
 },
 {
+anchors = (
+{
+name = bottom;
+position = "{708, 0}";
+}
+);
 associatedMasterId = "8BF1279D-F38F-4102-BF8D-9111B5ED49F5";
 layerId = "634F431D-D4BC-4C59-A0E2-845C53CD7E9B";
 name = "Bold Nov 22 15, 23:18";
@@ -51905,6 +51941,7 @@ leftMetricsKey = "=vavhebrew";
 note = VavDouble;
 rightMetricsKey = "=vavhebrew";
 unicode = 05F0;
+subCategory = Other;
 },
 {
 glyphname = vavyodhebrew;
@@ -52415,6 +52452,12 @@ unicode = 05F1;
 glyphname = yodyodhebrew;
 layers = (
 {
+anchors = (
+{
+name = bottom;
+position = "{715, 0}";
+}
+);
 components = (
 {
 alignment = -1;
@@ -52429,6 +52472,12 @@ layerId = "DDA1A922-6BCD-4FE9-B3B8-E722553F0315";
 width = 1452;
 },
 {
+anchors = (
+{
+name = bottom;
+position = "{714, 0}";
+}
+);
 components = (
 {
 alignment = -1;
@@ -52599,6 +52648,12 @@ nodes = (
 width = 1292;
 },
 {
+anchors = (
+{
+name = bottom;
+position = "{711, 0}";
+}
+);
 components = (
 {
 alignment = -1;
@@ -52924,6 +52979,7 @@ leftMetricsKey = "=yodhebrew";
 note = YodDouble;
 rightMetricsKey = "=yodhebrew";
 unicode = 05F2;
+subCategory = Other;
 },
 {
 glyphname = aleflamedhebrew;
