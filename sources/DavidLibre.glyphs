@@ -292,7 +292,7 @@ sub seven by seven.hebr;
 sub eight by eight.hebr;
 sub nine by nine.hebr;";
 name = ss01;
-notes = "Name: Name: ";
+notes = "Name: Name:";
 },
 {
 code = "script hebr;
@@ -155646,5 +155646,5 @@ manufacturer = "Monotype Imaging Inc. & SIL International";
 manufacturerURL = "http://www.monotype.com";
 unitsPerEm = 2048;
 versionMajor = 1;
-versionMinor = 3;
+versionMinor = 100;
 }
