@@ -1,15 +1,5 @@
 {
-.appVersion = "3151";
-DisplayStrings = (
-"/yodhiriq-hb",
-"/finalkafdagesh_sheva-hb",
-"/finalkafdagesh-hb",
-"/finalkafdagesh_sheva-hb/finalkafdagesh_sheva-hb/finalkafdagesh_sheva-hb/finalkafdagesh_sheva-hb/finalkafdagesh_sheva-hb/finalkafdagesh_sheva-hb/finalkafdagesh_sheva-hb/finalkafdagesh_sheva-hb/finalkafdagesh_sheva-hb/finalkafdagesh_sheva-hb/finalkafdagesh_sheva-hb/finalkafdagesh_sheva-hb/finalkafdagesh_sheva-hb/finalkafdagesh_sheva-hb/finalkafdagesh_sheva-hb/finalkafdagesh_sheva-hb/finalkafdagesh_sheva-hb/finalkafdagesh_sheva-hb/finalkafdagesh_qamats-hb/finalkafdagesh_qamats-hb/finalkafdagesh_qamats-hb/finalkafdagesh_qamats-hb/finalkafdagesh_qamats-hb/finalkafdagesh_qamats-hb/finalkafdagesh_qamats-hb/finalkafdagesh_qamats-hb/finalkafdagesh_qamats-hb/finalkafdagesh_qamats-hb/finalkafdagesh_qamats-hb/finalkafdagesh_qamats-hb/finalkafdagesh_qamats-hb/finalkafdagesh_qamats-hb/finalkafdagesh_qamats-hb/finalkafdagesh_qamats-hb/finalkafdagesh_qamats-hb/finalkafdagesh_qamats-hb",
-"/qamats-hb",
-"/finalkafdagesh_qamats-hb",
-"/yodyod-hb",
-"/yodyodpatah-hb"
-);
+.appVersion = "3201";
 copyright = "Copyright 2016 The David Libre Project Authors (https://github.com/meirsadan/david-libre)";
 customParameters = (
 {
@@ -28,6 +18,11 @@ value = 1;
 {
 name = "Use Typo Metrics";
 value = 1;
+},
+{
+name = "Axis Mappings";
+value = {
+};
 },
 {
 name = license;
@@ -424,6 +419,7 @@ xHeight = 989;
 {
 ascender = 1528;
 capHeight = 1362;
+custom = Medium;
 customParameters = (
 {
 name = typoAscender;
@@ -464,8 +460,8 @@ guideLines = (
 position = "{201, 1127}";
 }
 );
+iconName = SemiBold;
 id = "E8A33793-4A0E-4E9A-9368-A1D232455500";
-weight = SemiBold;
 weightValue = 600;
 widthValue = 5;
 xHeight = 989;
