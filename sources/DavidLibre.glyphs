@@ -1,6 +1,10 @@
 {
 .appVersion = "3201";
 .formatVersion = 3;
+DisplayStrings = (
+"ẩ",
+"ầầầ"
+);
 customParameters = (
 {
 name = fsType;
