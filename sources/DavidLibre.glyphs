@@ -50041,6 +50041,12 @@ unicode = A78C;
 glyphname = fi;
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+position = "{596, 0}";
+}
+);
 components = (
 {
 name = f;
@@ -50054,6 +50060,12 @@ layerId = "DDA1A922-6BCD-4FE9-B3B8-E722553F0315";
 width = 1192;
 },
 {
+anchors = (
+{
+name = caret_1;
+position = "{655.5, 0}";
+}
+);
 components = (
 {
 name = f;
@@ -50067,6 +50079,12 @@ layerId = "8BF1279D-F38F-4102-BF8D-9111B5ED49F5";
 width = 1311;
 },
 {
+anchors = (
+{
+name = caret_1;
+position = "{635.5, 0}";
+}
+);
 components = (
 {
 name = f;
@@ -50086,6 +50104,12 @@ unicode = FB01;
 glyphname = fl;
 layers = (
 {
+anchors = (
+{
+name = caret_1;
+position = "{596, 0}";
+}
+);
 components = (
 {
 name = f;
@@ -50099,6 +50123,12 @@ layerId = "DDA1A922-6BCD-4FE9-B3B8-E722553F0315";
 width = 1192;
 },
 {
+anchors = (
+{
+name = caret_1;
+position = "{655.5, 0}";
+}
+);
 layerId = "8BF1279D-F38F-4102-BF8D-9111B5ED49F5";
 paths = (
 {
@@ -50171,6 +50201,12 @@ nodes = (
 width = 1311;
 },
 {
+anchors = (
+{
+name = caret_1;
+position = "{635.5, 0}";
+}
+);
 components = (
 {
 name = f;
