@@ -312,7 +312,7 @@ axesValues = (
 customParameters = (
 {
 name = typoAscender;
-value = 1528;
+value = 1599;
 },
 {
 name = typoDescender;
@@ -332,7 +332,7 @@ value = 733;
 },
 {
 name = hheaAscender;
-value = 1528;
+value = 1599;
 },
 {
 name = hheaDescender;
@@ -377,7 +377,7 @@ axesValues = (
 customParameters = (
 {
 name = typoAscender;
-value = 1528;
+value = 1599;
 },
 {
 name = typoDescender;
@@ -397,7 +397,7 @@ value = 733;
 },
 {
 name = hheaAscender;
-value = 1528;
+value = 1599;
 },
 {
 name = hheaDescender;
@@ -437,7 +437,7 @@ axesValues = (
 customParameters = (
 {
 name = typoAscender;
-value = 1528;
+value = 1599;
 },
 {
 name = typoDescender;
@@ -457,7 +457,7 @@ value = 733;
 },
 {
 name = hheaAscender;
-value = 1528;
+value = 1599;
 },
 {
 name = hheaDescender;
@@ -19898,7 +19898,7 @@ pos = (692,-100);
 },
 {
 name = O;
-pos = (778,0);
+pos = (808,0);
 },
 {
 name = R;
@@ -19965,7 +19965,7 @@ pos = (687,-100);
 },
 {
 name = O;
-pos = (772,0);
+pos = (802,0);
 },
 {
 name = R;
@@ -21639,7 +21639,7 @@ shapes = (
 ref = U;
 },
 {
-pos = (1225,0);
+pos = (1255,0);
 ref = ogonekcomb;
 }
 );
@@ -21652,7 +21652,7 @@ shapes = (
 ref = U;
 },
 {
-pos = (1225,0);
+pos = (1255,0);
 ref = ogonekcomb;
 }
 );
@@ -24672,7 +24672,7 @@ pos = (492,-100);
 },
 {
 name = O;
-pos = (779,0);
+pos = (763,0);
 },
 {
 name = R;
@@ -24766,7 +24766,7 @@ pos = (481,-100);
 },
 {
 name = O;
-pos = (758,0);
+pos = (752,0);
 },
 {
 name = R;
@@ -26452,7 +26452,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (1211,0);
+pos = (1205,0);
 ref = ogonekcomb;
 }
 );
@@ -26465,7 +26465,7 @@ shapes = (
 ref = a;
 },
 {
-pos = (1226,0);
+pos = (1210,0);
 ref = ogonekcomb;
 }
 );
@@ -29871,7 +29871,7 @@ pos = (500,-100);
 },
 {
 name = O;
-pos = (700,0);
+pos = (559,0);
 },
 {
 name = R;
@@ -29956,7 +29956,7 @@ pos = (525,-100);
 },
 {
 name = O;
-pos = (744,0);
+pos = (610,0);
 },
 {
 name = R;
@@ -30032,7 +30032,7 @@ pos = (517,-100);
 },
 {
 name = O;
-pos = (729,0);
+pos = (593,0);
 },
 {
 name = R;
@@ -31196,7 +31196,7 @@ shapes = (
 ref = e;
 },
 {
-pos = (1164,0);
+pos = (1023,0);
 ref = ogonekcomb;
 }
 );
@@ -31209,7 +31209,7 @@ shapes = (
 ref = e;
 },
 {
-pos = (1182,0);
+pos = (1046,0);
 ref = ogonekcomb;
 }
 );
@@ -31222,7 +31222,7 @@ shapes = (
 ref = e;
 },
 {
-pos = (1191,0);
+pos = (1057,0);
 ref = ogonekcomb;
 }
 );
@@ -47310,7 +47310,7 @@ pos = (577,-100);
 },
 {
 name = O;
-pos = (918,0);
+pos = (889,0);
 },
 {
 name = R;
@@ -47388,7 +47388,7 @@ pos = (566,-100);
 },
 {
 name = O;
-pos = (899,0);
+pos = (878,0);
 },
 {
 name = R;
@@ -49190,7 +49190,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (1352,0);
+pos = (1331,0);
 ref = ogonekcomb;
 }
 );
@@ -49203,7 +49203,7 @@ shapes = (
 ref = u;
 },
 {
-pos = (1365,0);
+pos = (1336,0);
 ref = ogonekcomb;
 }
 );
@@ -158940,7 +158940,7 @@ key = copyrights;
 values = (
 {
 language = dflt;
-value = "Copyright 2016 The David Libre Project Authors (https://github.com/meirsadan/david-libre)";
+value = "Copyright 2016 The David Libre Project Authors (https://github.com/meirsadan/david-libre), with reserved font name \"Hadash\", \"Gentium\" and 'SIL'.";
 }
 );
 },
